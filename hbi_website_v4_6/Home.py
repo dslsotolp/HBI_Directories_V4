@@ -18,6 +18,7 @@ from utils.components import (
     COMMUNITY_TEAL,
     render_disclaimer,
     render_profile_help_badge_html,
+    portable_static_source,
 )
 from utils.data_loader import build_directory_data, load_members
 from utils.linkedin_data_loader import (
@@ -212,9 +213,10 @@ with _search_results:
 
 # ── Community Map ─────────────────────────────────────────────────────────────
 with st.container(key="home_map_panel"):
+    _hbi_world_src = portable_static_source("/app/static/images/brand/hbi-world.png")
     st.markdown(
         '<div class="hbi-home-world">'
-        '<img class="hbi-home-clean-image" src="/app/static/images/brand/hbi-world.png" alt="HBI World">'
+        f'<img class="hbi-home-clean-image" src="{_hbi_world_src}" alt="HBI World">'
         '<h2>Where is our community?</h2>'
         '<p>Explore the people and places connected through HBI.</p>'
         '</div>',

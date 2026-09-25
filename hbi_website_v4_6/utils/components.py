@@ -825,6 +825,11 @@ def _portable_photo_source(photo_url: str) -> str:
     encoded = base64.b64encode(path.read_bytes()).decode("ascii")
     return f"data:{mime_type};base64,{encoded}"
 
+
+def portable_static_source(static_url: str) -> str:
+    """Embed app-local static assets so they work without a cloud static-file route."""
+    return _portable_photo_source(static_url)
+
 def render_avatar_html(name: str, size: int = 60, photo_url: str | None = None) -> str:
     """Render a 4:5 portrait avatar at 150% of the former avatar width."""
     initials = _esc(get_initials(name))

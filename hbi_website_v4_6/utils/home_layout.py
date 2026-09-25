@@ -2,6 +2,12 @@
 
 import streamlit as st
 
+from utils.components import portable_static_source
+
+
+_HBI_LOGO_SRC = portable_static_source("/app/static/images/brand/hbi-logo.png")
+_HBI_COMMUNITY_SRC = portable_static_source("/app/static/images/brand/hbi-community.png")
+
 
 def _render_welcome_styles():
     st.markdown(
@@ -206,7 +212,7 @@ def render_member_directory_welcome():
     st.markdown(
         '<div class="hbi-home-hero hbi-members-hero">'
         '<div class="hbi-home-hero-copy">'
-        '<img class="hbi-member-banner-logo" src="/app/static/images/brand/hbi-logo.png" alt="HBI Members">'
+        f'<img class="hbi-member-banner-logo" src="{_HBI_LOGO_SRC}" alt="HBI Members">'
         '<div class="hbi-member-banner-text"><h1>Member Directory</h1>'
         '<p class="hbi-home-tagline">Discover HBI members and their research.</p></div>'
         '</div>'
@@ -221,7 +227,7 @@ def render_home_directory_links():
     with members:
         st.markdown(
             '<a class="hbi-home-directory" href="/HBI_Members" target="_self">'
-            '<span class="hbi-home-directory-icon"><img src="/app/static/images/brand/hbi-logo.png" '
+            f'<span class="hbi-home-directory-icon"><img src="{_HBI_LOGO_SRC}" '
             'alt="HBI Logo" style="width:112px;height:80px;"></span>'
             '<strong>HBI Members</strong>'
             '<span class="hbi-home-directory-description">Meet our faculty and explore their research.</span>'
@@ -232,7 +238,7 @@ def render_home_directory_links():
         st.markdown(
             '<a class="hbi-home-directory" href="/HBI_Community" target="_self">'
             '<span class="hbi-home-directory-icon"><img class="hbi-home-clean-image" '
-            'src="/app/static/images/brand/hbi-community.png" alt="HBI Community" '
+            f'src="{_HBI_COMMUNITY_SRC}" alt="HBI Community" '
             'style="width:140px;height:140px;"></span>'
             '<strong>HBI Community</strong>'
             '<span class="hbi-home-directory-description">Discover collaborators, alumni, and our wider community.</span>'
