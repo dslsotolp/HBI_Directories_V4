@@ -1,0 +1,8 @@
+scope,member_id,field,source_value,display_value,reason
+position_title,mem_84f207cee7,title,Hopewell Profesor of Brain Imaging,Hopewell Professor of Brain Imaging,Correct an acknowledged spelling error in the source profile title
+member_name,mem_76e8d167a4,name,Fetch Failed,Anne Duffy,Restore searchable display name when legacy crawl status recorded a placeholder
+member_name,mem_1a8581bdce,name,Fetch Failed,Jiami Guo,Restore searchable display name when legacy crawl status recorded a placeholder
+member_name,mem_e17264f3a7,name,Fetch Failed,Johanna Waegemakers Schiff,Restore searchable display name when legacy crawl status recorded a placeholder
+member_name,mem_21015a8f8f,name,Fetch Failed,Jong Rho,Restore searchable display name when legacy crawl status recorded a placeholder
+member_name,mem_c7a27b785f,name,Fetch Failed,Matthias Wilms,Restore searchable display name when legacy crawl status recorded a placeholder
+member_name,mem_39a386491c,name,Fetch Failed,Patricia Ebert,Restore searchable display name when legacy crawl status recorded a placeholder

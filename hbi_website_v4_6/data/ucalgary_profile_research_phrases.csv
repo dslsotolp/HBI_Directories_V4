@@ -1,0 +1,822 @@
+member_id,phrase,source_type,sort_order,source_url,verification_status
+mem_010c48c43f,Dementia and Cognitive Disorders,declared_area_list,0,https://profiles.ucalgary.ca/pamela-roach,source_declared
+mem_010c48c43f,Mental Health,declared_area_list,1,https://profiles.ucalgary.ca/pamela-roach,source_declared
+mem_010c48c43f,patient and family centered care,declared_area_list,2,https://profiles.ucalgary.ca/pamela-roach,source_declared
+mem_010c48c43f,early onset dementia,declared_area_list,3,https://profiles.ucalgary.ca/pamela-roach,source_declared
+mem_01f8882e68,"Dementia, mental healthcare quality",declared_area_title,0,https://profiles.ucalgary.ca/julia-kirkham,source_declared
+mem_023bd77aa2,Clinical Science,declared_area_title,0,https://profiles.ucalgary.ca/daniel-pang,source_declared
+mem_023bd77aa2,Equine Health,declared_area_title,1,https://profiles.ucalgary.ca/daniel-pang,source_declared
+mem_023bd77aa2,Veterinary Medical Education,declared_area_title,2,https://profiles.ucalgary.ca/daniel-pang,source_declared
+mem_023bd77aa2,Neuroscience,declared_area_title,3,https://profiles.ucalgary.ca/daniel-pang,source_declared
+mem_023bd77aa2,Spinal Cord / Nerve Injury & Pain,declared_area_title,4,https://profiles.ucalgary.ca/daniel-pang,source_declared
+mem_05362065f8,Eating Disorders and Body Image,declared_area_title,0,https://profiles.ucalgary.ca/kristin-von-ranson,source_declared
+mem_05a8774842,"Mental illness bias, discrimination and stigma within Emergency settings",declared_area_title,0,https://profiles.ucalgary.ca/jacqueline-smith-0,source_declared
+mem_05a8774842,Mental health and stress related experiences within post secondary settings,declared_area_title,1,https://profiles.ucalgary.ca/jacqueline-smith-0,source_declared
+mem_05a8774842,"Addiction, family care givers, mindfulness, emotional health & wellbeing",declared_area_title,2,https://profiles.ucalgary.ca/jacqueline-smith-0,source_declared
+mem_05a8774842,Narrative Inquiry,declared_area_title,3,https://profiles.ucalgary.ca/jacqueline-smith-0,source_declared
+mem_05a8774842,Cannabis harm reduction & educational tools for university students,declared_area_title,4,https://profiles.ucalgary.ca/jacqueline-smith-0,source_declared
+mem_068c3d4ab0,"Brain-Machine Interfaces, Mutil-sensory User Interaction in XR (Virtual/Mixed/Augumented Reality), Immersive Analytics",declared_area_title,0,https://profiles.ucalgary.ca/yaoping-hu,source_declared
+mem_06b710915b,Neurorehabilitation,declared_area_title,0,https://profiles.ucalgary.ca/elizabeth-condliffe,source_declared
+mem_06b710915b,Exercise,declared_area_title,1,https://profiles.ucalgary.ca/elizabeth-condliffe,source_declared
+mem_06b710915b,Movement Impairment,declared_area_title,2,https://profiles.ucalgary.ca/elizabeth-condliffe,source_declared
+mem_06b710915b,Neuroplasticity,declared_area_title,3,https://profiles.ucalgary.ca/elizabeth-condliffe,source_declared
+mem_06b710915b,Robotic Rehabilitation,declared_area_title,4,https://profiles.ucalgary.ca/elizabeth-condliffe,source_declared
+mem_06b710915b,Brain Stimulation,declared_area_title,5,https://profiles.ucalgary.ca/elizabeth-condliffe,source_declared
+mem_06b710915b,Cerebral Palsy,declared_area_title,6,https://profiles.ucalgary.ca/elizabeth-condliffe,source_declared
+mem_085f530390,Autism,declared_area_title,0,https://profiles.ucalgary.ca/jaideep-bains,source_declared
+mem_085f530390,Behaviour,declared_area_title,1,https://profiles.ucalgary.ca/jaideep-bains,source_declared
+mem_085f530390,Brain,declared_area_title,2,https://profiles.ucalgary.ca/jaideep-bains,source_declared
+mem_085f530390,Neuroplasticity,declared_area_title,3,https://profiles.ucalgary.ca/jaideep-bains,source_declared
+mem_085f530390,Synapses,declared_area_title,4,https://profiles.ucalgary.ca/jaideep-bains,source_declared
+mem_087ae95126,Behaviour,declared_area_title,0,https://profiles.ucalgary.ca/derya-sargin,source_declared
+mem_087ae95126,Brain Development,declared_area_title,1,https://profiles.ucalgary.ca/derya-sargin,source_declared
+mem_087ae95126,Mental Health,declared_area_title,2,https://profiles.ucalgary.ca/derya-sargin,source_declared
+mem_087ae95126,Molecular Mechanisms,declared_area_title,3,https://profiles.ucalgary.ca/derya-sargin,source_declared
+mem_087ae95126,Neuroplasticity,declared_area_title,4,https://profiles.ucalgary.ca/derya-sargin,source_declared
+mem_0ba27398f2,neuroplasticity,declared_area_title,0,https://profiles.ucalgary.ca/richelle-mychasiuk,source_declared
+mem_0ba27398f2,Neurodevelopment,declared_area_title,1,https://profiles.ucalgary.ca/richelle-mychasiuk,source_declared
+mem_0ba6f2386f,Brain Injury,declared_area_title,0,https://profiles.ucalgary.ca/brian-brooks,source_declared
+mem_0ba6f2386f,Concussion,declared_area_title,1,https://profiles.ucalgary.ca/brian-brooks,source_declared
+mem_0ba6f2386f,Health Outcomes,declared_area_title,2,https://profiles.ucalgary.ca/brian-brooks,source_declared
+mem_0ba6f2386f,Psychosocial outcomes,declared_area_title,3,https://profiles.ucalgary.ca/brian-brooks,source_declared
+mem_0bae7d82da,Tissue Regeneration,declared_area_title,0,https://profiles.ucalgary.ca/jeffrey-biernaskie,source_declared
+mem_0bae7d82da,Stem Cells,declared_area_title,1,https://profiles.ucalgary.ca/jeffrey-biernaskie,source_declared
+mem_0be3586361,Neurodevelopment,declared_area_title,0,https://profiles.ucalgary.ca/gerald-giesbrecht,source_declared
+mem_0be3586361,Nutrition,declared_area_title,1,https://profiles.ucalgary.ca/gerald-giesbrecht,source_declared
+mem_0be3586361,Pregnancy,declared_area_title,2,https://profiles.ucalgary.ca/gerald-giesbrecht,source_declared
+mem_0be3586361,Psychosocial outcomes,declared_area_title,3,https://profiles.ucalgary.ca/gerald-giesbrecht,source_declared
+mem_0be3586361,Resiliency,declared_area_title,4,https://profiles.ucalgary.ca/gerald-giesbrecht,source_declared
+mem_0be3586361,Microbiota-gut-brain axis,declared_area_title,5,https://profiles.ucalgary.ca/gerald-giesbrecht,source_declared
+mem_0dc9704372,complex trauma and mental health issues,declared_area_list,0,https://profiles.ucalgary.ca/emily-wang-0,source_declared
+mem_0f24dba938,Determinants of Health,declared_area_title,0,https://profiles.ucalgary.ca/melanie-noel,source_declared
+mem_0f24dba938,Pain,declared_area_title,1,https://profiles.ucalgary.ca/melanie-noel,source_declared
+mem_0f24dba938,Psychosocial outcomes,declared_area_title,2,https://profiles.ucalgary.ca/melanie-noel,source_declared
+mem_0f73a389b6,vascular imaging,declared_area_title,0,https://profiles.ucalgary.ca/andrew-demchuk,source_declared
+mem_0f73a389b6,ischemic stroke,declared_area_title,1,https://profiles.ucalgary.ca/andrew-demchuk,source_declared
+mem_0f73a389b6,Stroke,declared_area_title,2,https://profiles.ucalgary.ca/andrew-demchuk,source_declared
+mem_0f847603bd,Overall Activities,declared_area_title,0,https://profiles.ucalgary.ca/patrick-whelan,source_declared
+mem_0f847603bd,Parkinson's Disease,declared_area_title,1,https://profiles.ucalgary.ca/patrick-whelan,source_declared
+mem_0f847603bd,Spinal Cord Injury,declared_area_title,2,https://profiles.ucalgary.ca/patrick-whelan,source_declared
+mem_11c6e6d0a9,"peripheral nervous system, diabetic polyneuropathy and peripheral neuron regeneration",declared_area_list,0,https://profiles.ucalgary.ca/douglas-william-zochodne,source_declared
+mem_126415dca2,Epilepsy,declared_area_title,0,https://profiles.ucalgary.ca/bradley-gordon-goodyear,source_declared
+mem_126415dca2,Movement Disorders,declared_area_title,1,https://profiles.ucalgary.ca/bradley-gordon-goodyear,source_declared
+mem_126415dca2,Multiple Sclerosis,declared_area_title,2,https://profiles.ucalgary.ca/bradley-gordon-goodyear,source_declared
+mem_126415dca2,Traumatic Brain Injury,declared_area_title,3,https://profiles.ucalgary.ca/bradley-gordon-goodyear,source_declared
+mem_12cfcd78b8,Biomarkers,declared_area_title,0,https://profiles.ucalgary.ca/chantel-debert,source_declared
+mem_12cfcd78b8,Brain Injury,declared_area_title,1,https://profiles.ucalgary.ca/chantel-debert,source_declared
+mem_12cfcd78b8,Concussion,declared_area_title,2,https://profiles.ucalgary.ca/chantel-debert,source_declared
+mem_12cfcd78b8,Post-concussion symptoms,declared_area_title,3,https://profiles.ucalgary.ca/chantel-debert,source_declared
+mem_12cfcd78b8,Treatment,declared_area_title,4,https://profiles.ucalgary.ca/chantel-debert,source_declared
+mem_14c5161155,"Computational Neuroscience, Dementia & Cognitive Disorders, Epilepsy, Learning and Memory, the Hippocampus",declared_area_title,0,https://profiles.ucalgary.ca/wilten-nicola,source_declared
+mem_1715d89fe0,Stroke,declared_area_title,0,https://profiles.ucalgary.ca/mohammed-almekhlafi,source_declared
+mem_1715d89fe0,Endovascular thrombectomy,declared_area_title,1,https://profiles.ucalgary.ca/mohammed-almekhlafi,source_declared
+mem_1715d89fe0,Brain aneurysms,declared_area_title,2,https://profiles.ucalgary.ca/mohammed-almekhlafi,source_declared
+mem_1715d89fe0,Carotid stenosis,declared_area_title,3,https://profiles.ucalgary.ca/mohammed-almekhlafi,source_declared
+mem_1715d89fe0,Cerebral arteriovenous malformation,declared_area_title,4,https://profiles.ucalgary.ca/mohammed-almekhlafi,source_declared
+mem_1a2035eb16,Genetics of epilepsy,declared_area_list,0,https://profiles.ucalgary.ca/karl-klein,source_declared
+mem_1a2035eb16,Precision medicine in epilepsy,declared_area_list,1,https://profiles.ucalgary.ca/karl-klein,source_declared
+mem_1a2035eb16,Brain somatic variatis causing epilepsy,declared_area_list,2,https://profiles.ucalgary.ca/karl-klein,source_declared
+mem_1a8581bdce,"Brain development, neurodevelopmental disorders, autism, ciliopathies, neurodegenerative disorders",declared_area_title,0,https://profiles.ucalgary.ca/jiami-guo,source_declared
+mem_1a8581bdce,"Glial cells, Neuroinflammation, Stroke",declared_area_title,1,https://profiles.ucalgary.ca/jiami-guo,source_declared
+mem_1ae867ffe5,Interests,declared_area_title,0,https://profiles.ucalgary.ca/brittany-martin,source_declared
+mem_1da9136136,Parkinsons Disease,declared_area_title,0,https://profiles.ucalgary.ca/oury-monchi,source_declared
+mem_1da9136136,dementia,declared_area_title,1,https://profiles.ucalgary.ca/oury-monchi,source_declared
+mem_1da9136136,Neuroimaging,declared_area_title,2,https://profiles.ucalgary.ca/oury-monchi,source_declared
+mem_1da9136136,Transcranial Magnetic Stimulation,declared_area_title,3,https://profiles.ucalgary.ca/oury-monchi,source_declared
+mem_1da9136136,TMS,declared_area_title,4,https://profiles.ucalgary.ca/oury-monchi,source_declared
+mem_1da9136136,Dementia & Cognitive Disorders,declared_area_title,5,https://profiles.ucalgary.ca/oury-monchi,source_declared
+mem_1da9136136,Movement Disorders,declared_area_title,6,https://profiles.ucalgary.ca/oury-monchi,source_declared
+mem_22a4e04503,Pediatric Pain,declared_area_title,0,https://profiles.ucalgary.ca/jillian-miller,source_declared
+mem_233f37a4ef,Brain,declared_area_title,0,https://profiles.ucalgary.ca/ashley-harris,source_declared
+mem_233f37a4ef,Brain Development,declared_area_title,1,https://profiles.ucalgary.ca/ashley-harris,source_declared
+mem_233f37a4ef,Brain Injury,declared_area_title,2,https://profiles.ucalgary.ca/ashley-harris,source_declared
+mem_233f37a4ef,Neurodevelopment,declared_area_title,3,https://profiles.ucalgary.ca/ashley-harris,source_declared
+mem_233f37a4ef,Neurodevelopmental disorders,declared_area_title,4,https://profiles.ucalgary.ca/ashley-harris,source_declared
+mem_233f37a4ef,Neuroimaging,declared_area_title,5,https://profiles.ucalgary.ca/ashley-harris,source_declared
+mem_2561dcafb5,Novel Therapeutics and Medicinal Chemistry,declared_area_detail,0,https://profiles.ucalgary.ca/darren-derksen,source_declared
+mem_27ca2caae0,Schizophrenia genetics,declared_area_list,0,https://profiles.ucalgary.ca/mark-colijn,source_declared
+mem_28a1b9d70f,Brain Injury,declared_area_title,0,https://profiles.ucalgary.ca/clare-gallagher,source_declared
+mem_2a3fddd6a7,pediatric neuromuscular and pediatric demyelinating diseases,declared_area_list,0,https://profiles.ucalgary.ca/jean-kit-wah-mah-0,source_declared
+mem_2b973efd83,Zinc neurobiology,declared_area_title,0,https://profiles.ucalgary.ca/richard-dyck,source_declared
+mem_2b973efd83,Experience-dependent plasticity,declared_area_title,1,https://profiles.ucalgary.ca/richard-dyck,source_declared
+mem_2b973efd83,Adult Neurogenesis,declared_area_title,2,https://profiles.ucalgary.ca/richard-dyck,source_declared
+mem_2b973efd83,Brain Development,declared_area_title,3,https://profiles.ucalgary.ca/richard-dyck,source_declared
+mem_2b973efd83,Brain Injury,declared_area_title,4,https://profiles.ucalgary.ca/richard-dyck,source_declared
+mem_2bd0db628a,Maternal and infant mental health and wellbeing,declared_area_list,0,https://profiles.ucalgary.ca/kathleen-chaput,source_declared
+mem_2bd0db628a,Substance use/addictions in pregnancy,declared_area_list,1,https://profiles.ucalgary.ca/kathleen-chaput,source_declared
+mem_2bd0db628a,Maternal perinatal mental health,declared_area_list,2,https://profiles.ucalgary.ca/kathleen-chaput,source_declared
+mem_2bd0db628a,infant neurodevelopment,declared_area_list,3,https://profiles.ucalgary.ca/kathleen-chaput,source_declared
+mem_2bd0db628a,Breastfeeding,declared_area_list,4,https://profiles.ucalgary.ca/kathleen-chaput,source_declared
+mem_2fc1b1d132,Movement Disorders,declared_area_title,0,https://profiles.ucalgary.ca/chester-ho,source_declared
+mem_2fc1b1d132,Spinal Cord / Nerve Injury & Pain,declared_area_title,1,https://profiles.ucalgary.ca/chester-ho,source_declared
+mem_3146e74c2b,Epilepsy,declared_area_title,0,https://profiles.ucalgary.ca/paolo-federico,source_declared
+mem_32d283f76b,Electrophysiology of the auditory system,declared_area_title,0,https://profiles.ucalgary.ca/jos-jan-eggermont,source_declared
+mem_32d283f76b,Hearing and its disorders,declared_area_title,1,https://profiles.ucalgary.ca/jos-jan-eggermont,source_declared
+mem_32edff8f29,The ETHEREAL Project - Enhancing Autistic Voices Through Extended Reality,declared_area_title,0,https://profiles.ucalgary.ca/diwakar-krishnamurthy,source_declared
+mem_32edff8f29,Performance optimization of next generation multimedia systems (XR and related technologies),declared_area_title,1,https://profiles.ucalgary.ca/diwakar-krishnamurthy,source_declared
+mem_32edff8f29,"Performance management of cloud, big data, and IoT systems",declared_area_title,2,https://profiles.ucalgary.ca/diwakar-krishnamurthy,source_declared
+mem_32edff8f29,Software performance engineering,declared_area_title,3,https://profiles.ucalgary.ca/diwakar-krishnamurthy,source_declared
+mem_32fb421d6b,Focused Ultrasound as non-invasive treatment for brain disorders,declared_area_title,0,https://profiles.ucalgary.ca/samuel-pichardo,source_declared
+mem_32fb421d6b,Dementia & Cognitive Disorders,declared_area_title,1,https://profiles.ucalgary.ca/samuel-pichardo,source_declared
+mem_32fb421d6b,Epilepsy,declared_area_title,2,https://profiles.ucalgary.ca/samuel-pichardo,source_declared
+mem_32fb421d6b,Mental Health,declared_area_title,3,https://profiles.ucalgary.ca/samuel-pichardo,source_declared
+mem_338f9f338e,Brain,declared_area_title,0,https://profiles.ucalgary.ca/kara-murias,source_declared
+mem_338f9f338e,Cognitive Development,declared_area_title,1,https://profiles.ucalgary.ca/kara-murias,source_declared
+mem_338f9f338e,Neurodevelopmental disorders,declared_area_title,2,https://profiles.ucalgary.ca/kara-murias,source_declared
+mem_338f9f338e,Neuroimaging,declared_area_title,3,https://profiles.ucalgary.ca/kara-murias,source_declared
+mem_33d5559424,Developmental Origins of Health and Disease,declared_area_title,0,https://profiles.ucalgary.ca/tamara-bodnar,source_declared
+mem_3453676d84,Multiple Sclerosis,declared_area_title,0,https://profiles.ucalgary.ca/hedwich-kuipers,source_declared
+mem_3453676d84,Neuroinflammatory diseases,declared_area_title,1,https://profiles.ucalgary.ca/hedwich-kuipers,source_declared
+mem_3453676d84,Interaction of immune & resident cells in the central nervous system,declared_area_title,2,https://profiles.ucalgary.ca/hedwich-kuipers,source_declared
+mem_35a08188c0,Synapsis,declared_area_title,0,https://profiles.ucalgary.ca/sarah-mcfarlane,source_declared
+mem_35a08188c0,Vision,declared_area_title,1,https://profiles.ucalgary.ca/sarah-mcfarlane,source_declared
+mem_36447b4ebf,Complexity Science,declared_area_title,0,https://profiles.ucalgary.ca/joern-davidsen,source_declared
+mem_36447b4ebf,Spreading & triggering processes,declared_area_title,1,https://profiles.ucalgary.ca/joern-davidsen,source_declared
+mem_36447b4ebf,Fluid-induced seismicity,declared_area_title,2,https://profiles.ucalgary.ca/joern-davidsen,source_declared
+mem_36447b4ebf,Computational neuroscience & the critical brain,declared_area_title,3,https://profiles.ucalgary.ca/joern-davidsen,source_declared
+mem_36447b4ebf,Rock fracture & frictional sliding,declared_area_title,4,https://profiles.ucalgary.ca/joern-davidsen,source_declared
+mem_36447b4ebf,Statistical seismology,declared_area_title,5,https://profiles.ucalgary.ca/joern-davidsen,source_declared
+mem_36447b4ebf,Network neuroscience,declared_area_title,6,https://profiles.ucalgary.ca/joern-davidsen,source_declared
+mem_36447b4ebf,Synchronization & chimera states,declared_area_title,7,https://profiles.ucalgary.ca/joern-davidsen,source_declared
+mem_36447b4ebf,Sociophysics,declared_area_title,8,https://profiles.ucalgary.ca/joern-davidsen,source_declared
+mem_36447b4ebf,Climate dynamics & climate networks,declared_area_title,9,https://profiles.ucalgary.ca/joern-davidsen,source_declared
+mem_36447b4ebf,Extreme events and records,declared_area_title,10,https://profiles.ucalgary.ca/joern-davidsen,source_declared
+mem_36447b4ebf,Pattern formation & cardiac arrhythmia,declared_area_title,11,https://profiles.ucalgary.ca/joern-davidsen,source_declared
+mem_37b64942a2,Neural mechanism of auditory perception and hearing deficiencies,declared_area_title,0,https://profiles.ucalgary.ca/jun-yan,source_declared
+mem_37dd23d078,Healthcare delivery optimization,declared_area_list,0,https://profiles.ucalgary.ca/jessalyn-holodinsky,source_declared
+mem_37dd23d078,Prediction of Emergency Department resource utilization,declared_area_list,1,https://profiles.ucalgary.ca/jessalyn-holodinsky,source_declared
+mem_37dd23d078,Emergency Department throughput,declared_area_list,2,https://profiles.ucalgary.ca/jessalyn-holodinsky,source_declared
+mem_37dd23d078,Electronic medical record data,declared_area_list,3,https://profiles.ucalgary.ca/jessalyn-holodinsky,source_declared
+mem_37dd23d078,Supervised and unsupervised machine learning,declared_area_list,4,https://profiles.ucalgary.ca/jessalyn-holodinsky,source_declared
+mem_37dd23d078,Survival analysis & generalized linear models,declared_area_list,5,https://profiles.ucalgary.ca/jessalyn-holodinsky,source_declared
+mem_37dd23d078,Respiratory vaccinations and the prevention of cardiovascular events,declared_area_list,6,https://profiles.ucalgary.ca/jessalyn-holodinsky,source_declared
+mem_37dd23d078,Prehospital transportation of suspected stroke patients,declared_area_list,7,https://profiles.ucalgary.ca/jessalyn-holodinsky,source_declared
+mem_3873666ecc,Stroke Recovery & Community Reintegration,declared_area_title,0,https://profiles.ucalgary.ca/theresa-green,source_declared
+mem_3873666ecc,Complexity and chronic care nursing,declared_area_title,1,https://profiles.ucalgary.ca/theresa-green,source_declared
+mem_3873666ecc,Rehabilitation Nursing,declared_area_title,2,https://profiles.ucalgary.ca/theresa-green,source_declared
+mem_38b1f148ac,Mental Health,declared_area_list,0,https://profiles.ucalgary.ca/rochelle-bonnie-babins-wagner,source_declared
+mem_38fab37327,Biostatistics,declared_area_list,0,https://profiles.ucalgary.ca/tolulope-sajobi,source_declared
+mem_38fab37327,patient-reported outcomes,declared_area_list,1,https://profiles.ucalgary.ca/tolulope-sajobi,source_declared
+mem_38fab37327,clinical trials,declared_area_list,2,https://profiles.ucalgary.ca/tolulope-sajobi,source_declared
+mem_39fb2e4858,Biometric technologies,declared_area_title,0,https://profiles.ucalgary.ca/svetlana-yanushkevich,source_declared
+mem_39fb2e4858,Decision support systems,declared_area_title,1,https://profiles.ucalgary.ca/svetlana-yanushkevich,source_declared
+mem_39fb2e4858,Biomedical application,declared_area_title,2,https://profiles.ucalgary.ca/svetlana-yanushkevich,source_declared
+mem_39fb2e4858,Computational intelligence (CI),declared_area_title,3,https://profiles.ucalgary.ca/svetlana-yanushkevich,source_declared
+mem_3a1d20823e,Wearable biosensors,declared_area_list,0,https://profiles.ucalgary.ca/richa-pandey,source_declared
+mem_3a1d20823e,Point of care technologies,declared_area_list,1,https://profiles.ucalgary.ca/richa-pandey,source_declared
+mem_3a1d20823e,Biosensors,declared_area_list,2,https://profiles.ucalgary.ca/richa-pandey,source_declared
+mem_3a1d20823e,Lateral flow assays,declared_area_list,3,https://profiles.ucalgary.ca/richa-pandey,source_declared
+mem_3a1d20823e,Functional Nucleic Acid,declared_area_list,4,https://profiles.ucalgary.ca/richa-pandey,source_declared
+mem_3a936b52e4,Areas of Focus,declared_area_title,0,https://profiles.ucalgary.ca/oluwabukola-salami,source_declared
+mem_3cc315d4d3,Brain,declared_area_title,0,https://profiles.ucalgary.ca/gerald-zamponi,source_declared
+mem_3cc315d4d3,Molecular Mechanisms,declared_area_title,1,https://profiles.ucalgary.ca/gerald-zamponi,source_declared
+mem_3cc315d4d3,Pain,declared_area_title,2,https://profiles.ucalgary.ca/gerald-zamponi,source_declared
+mem_3d16baf56d,"Child, adolescent, and young adult psychosocial oncology",declared_area_detail,0,https://profiles.ucalgary.ca/perri-tutelman,source_declared
+mem_3d16baf56d,Digital mental health,declared_area_detail,1,https://profiles.ucalgary.ca/perri-tutelman,source_declared
+mem_3d17c87dc2,"Signaling, Regulation of muscle contraction",declared_area_title,0,https://profiles.ucalgary.ca/michael-patrick-walsh,source_declared
+mem_3d341c6e6a,Metabolic Physiology,declared_area_list,0,https://profiles.ucalgary.ca/jane-shearer,source_declared
+mem_3e0e98847e,Autism,declared_area_title,0,https://profiles.ucalgary.ca/david-nicholas,source_declared
+mem_3e0e98847e,Determinants of Health,declared_area_title,1,https://profiles.ucalgary.ca/david-nicholas,source_declared
+mem_3e0e98847e,Health Services Research,declared_area_title,2,https://profiles.ucalgary.ca/david-nicholas,source_declared
+mem_3e0e98847e,Neurodevelopmental Disorders,declared_area_title,3,https://profiles.ucalgary.ca/david-nicholas,source_declared
+mem_3e0e98847e,Patient and Family Centred Care,declared_area_title,4,https://profiles.ucalgary.ca/david-nicholas,source_declared
+mem_3e0ef14a60,"Child mental health, Gender-Based Violence; Trauma across the lifespan, Simulation-Based Learning",declared_area_title,0,https://profiles.ucalgary.ca/angelique-jenney,source_declared
+mem_3e0ef14a60,Simulation-based Experiential Learning,declared_area_title,1,https://profiles.ucalgary.ca/angelique-jenney,source_declared
+mem_3ed07ce6c8,Dementia & Cognitive Disorders,declared_area_title,0,https://profiles.ucalgary.ca/g-bruce-pike,source_declared
+mem_3ed07ce6c8,Epilepsy,declared_area_title,1,https://profiles.ucalgary.ca/g-bruce-pike,source_declared
+mem_3ed07ce6c8,Mental Health,declared_area_title,2,https://profiles.ucalgary.ca/g-bruce-pike,source_declared
+mem_3ed07ce6c8,Movement Disorders,declared_area_title,3,https://profiles.ucalgary.ca/g-bruce-pike,source_declared
+mem_3ed07ce6c8,Multiple Sclerosis,declared_area_title,4,https://profiles.ucalgary.ca/g-bruce-pike,source_declared
+mem_3ed07ce6c8,Magnetic Resonance Imaging,declared_area_title,5,https://profiles.ucalgary.ca/g-bruce-pike,source_declared
+mem_3ed07ce6c8,MRI,declared_area_title,6,https://profiles.ucalgary.ca/g-bruce-pike,source_declared
+mem_3ed07ce6c8,Cerebral Blood Flow,declared_area_title,7,https://profiles.ucalgary.ca/g-bruce-pike,source_declared
+mem_3f62008a1f,Post-secondary mental health and well-being,declared_area_list,0,https://profiles.ucalgary.ca/jennifer-thannhauser,source_declared
+mem_3f62008a1f,Resilience in the post-secondary context,declared_area_list,1,https://profiles.ucalgary.ca/jennifer-thannhauser,source_declared
+mem_3f62008a1f,Pediatric chronic illness,declared_area_list,2,https://profiles.ucalgary.ca/jennifer-thannhauser,source_declared
+mem_3f62008a1f,Post-secondary mental health evaluation,declared_area_list,3,https://profiles.ucalgary.ca/jennifer-thannhauser,source_declared
+mem_3faa6c8292,Electrical and Optical Instrumentation,declared_area_title,0,https://profiles.ucalgary.ca/kartikeya-murari,source_declared
+mem_4031282ea1,Brain,declared_area_title,0,https://profiles.ucalgary.ca/jeffrey-frank-dunn,source_declared
+mem_4031282ea1,Brain Injury,declared_area_title,1,https://profiles.ucalgary.ca/jeffrey-frank-dunn,source_declared
+mem_4031282ea1,Inflammation,declared_area_title,2,https://profiles.ucalgary.ca/jeffrey-frank-dunn,source_declared
+mem_4031282ea1,Magnetic Resonance Imaging,declared_area_title,3,https://profiles.ucalgary.ca/jeffrey-frank-dunn,source_declared
+mem_4031282ea1,Mitochondria,declared_area_title,4,https://profiles.ucalgary.ca/jeffrey-frank-dunn,source_declared
+mem_4031282ea1,Neuroimaging,declared_area_title,5,https://profiles.ucalgary.ca/jeffrey-frank-dunn,source_declared
+mem_4031282ea1,Stroke,declared_area_title,6,https://profiles.ucalgary.ca/jeffrey-frank-dunn,source_declared
+mem_40840edc6a,Mental Health,declared_area_title,0,https://profiles.ucalgary.ca/jean-margaret-addington,source_declared
+mem_40840edc6a,Schizophrenia and other psychoses,declared_area_title,1,https://profiles.ucalgary.ca/jean-margaret-addington,source_declared
+mem_40840edc6a,Risk of developing serious mental illness,declared_area_title,2,https://profiles.ucalgary.ca/jean-margaret-addington,source_declared
+mem_40840edc6a,Psychosocial treatments for youth at risk of psychosis,declared_area_title,3,https://profiles.ucalgary.ca/jean-margaret-addington,source_declared
+mem_414b7b0e40,Theoretical Orientations,declared_area_title,0,https://profiles.ucalgary.ca/kelly-dean-schwartz,source_declared
+mem_414b7b0e40,Scholarly Activity,declared_area_title,1,https://profiles.ucalgary.ca/kelly-dean-schwartz,source_declared
+mem_414b7b0e40,Interests,declared_area_title,2,https://profiles.ucalgary.ca/kelly-dean-schwartz,source_declared
+mem_418a89fdc0,KCa Channels,declared_area_list,0,https://profiles.ucalgary.ca/andrew-braun,source_declared
+mem_418a89fdc0,Nitric Oxide,declared_area_list,1,https://profiles.ucalgary.ca/andrew-braun,source_declared
+mem_418a89fdc0,Calcium,declared_area_list,2,https://profiles.ucalgary.ca/andrew-braun,source_declared
+mem_418a89fdc0,Myogenic Tone,declared_area_list,3,https://profiles.ucalgary.ca/andrew-braun,source_declared
+mem_418a89fdc0,Endothelium,declared_area_list,4,https://profiles.ucalgary.ca/andrew-braun,source_declared
+mem_418a89fdc0,Smooth Muscle,declared_area_list,5,https://profiles.ucalgary.ca/andrew-braun,source_declared
+mem_418a89fdc0,Vasodilation,declared_area_list,6,https://profiles.ucalgary.ca/andrew-braun,source_declared
+mem_418a89fdc0,Type 2 Diabetes,declared_area_list,7,https://profiles.ucalgary.ca/andrew-braun,source_declared
+mem_41979986b6,Substance and behavioural addictions,declared_area_list,0,https://profiles.ucalgary.ca/andrew-kim,source_declared
+mem_41979986b6,"comorbidity of addiction and mental health (i.e., concurrent disorders)",declared_area_list,1,https://profiles.ucalgary.ca/andrew-kim,source_declared
+mem_41979986b6,transdiagnostic treatments,declared_area_list,2,https://profiles.ucalgary.ca/andrew-kim,source_declared
+mem_41979986b6,sports betting,declared_area_list,3,https://profiles.ucalgary.ca/andrew-kim,source_declared
+mem_4393bff7a6,"Health, Exercise and Sport Psychology",declared_area_title,0,https://profiles.ucalgary.ca/meghan-mcdonough,source_declared
+mem_4435cc366f,Dementia or Cognitive Disorders,declared_area_list,0,https://profiles.ucalgary.ca/zahra-goodarzi,source_declared
+mem_4435cc366f,Parkinson's Disease,declared_area_list,1,https://profiles.ucalgary.ca/zahra-goodarzi,source_declared
+mem_4435cc366f,Geriatric Medicine Across Care Continuum,declared_area_list,2,https://profiles.ucalgary.ca/zahra-goodarzi,source_declared
+mem_4435cc366f,Long Term Care Evidence Based Practice,declared_area_list,3,https://profiles.ucalgary.ca/zahra-goodarzi,source_declared
+mem_4435cc366f,Emergency Care or Acute Care Issues for Older Adults,declared_area_list,4,https://profiles.ucalgary.ca/zahra-goodarzi,source_declared
+mem_4435cc366f,Mood Disorders,declared_area_list,5,https://profiles.ucalgary.ca/zahra-goodarzi,source_declared
+mem_4435cc366f,Systematic Review and Meta-Analysis,declared_area_list,6,https://profiles.ucalgary.ca/zahra-goodarzi,source_declared
+mem_4435cc366f,Guidelines,declared_area_list,7,https://profiles.ucalgary.ca/zahra-goodarzi,source_declared
+mem_4517ebed1e,Brain Tumours,declared_area_detail,0,https://profiles.ucalgary.ca/garnette-roy-sutherland,source_declared
+mem_4517ebed1e,Skull Base,declared_area_detail,1,https://profiles.ucalgary.ca/garnette-roy-sutherland,source_declared
+mem_4517ebed1e,Robotics-technology,declared_area_detail,2,https://profiles.ucalgary.ca/garnette-roy-sutherland,source_declared
+mem_4517ebed1e,Cerebrovascular disease,declared_area_detail,3,https://profiles.ucalgary.ca/garnette-roy-sutherland,source_declared
+mem_4598061484,"Electromyography, Peripheral Nervous System disorders and Ultrasound Imaging Techniques",declared_area_title,0,https://profiles.ucalgary.ca/serge-mrkobrada,source_declared
+mem_473d2f19dd,Epilepsy & other neuro conditions,declared_area_title,0,https://profiles.ucalgary.ca/nathalie-jette,source_declared
+mem_4bb4b4c5df,Child and adolescent development,declared_area_list,0,https://profiles.ucalgary.ca/zahra-clayborne,source_declared
+mem_4bb4b4c5df,women's health,declared_area_list,1,https://profiles.ucalgary.ca/zahra-clayborne,source_declared
+mem_4bb4b4c5df,life course epidemiology,declared_area_list,2,https://profiles.ucalgary.ca/zahra-clayborne,source_declared
+mem_4bb4b4c5df,mental health,declared_area_list,3,https://profiles.ucalgary.ca/zahra-clayborne,source_declared
+mem_4bb4b4c5df,well-being,declared_area_list,4,https://profiles.ucalgary.ca/zahra-clayborne,source_declared
+mem_4bb4b4c5df,flourishing,declared_area_list,5,https://profiles.ucalgary.ca/zahra-clayborne,source_declared
+mem_4bb4b4c5df,resilience,declared_area_list,6,https://profiles.ucalgary.ca/zahra-clayborne,source_declared
+mem_4d14f5ed5f,Movement Disorders,declared_area_title,0,https://profiles.ucalgary.ca/angela-haffenden,source_declared
+mem_4ee060e99b,Neuro-Oncology,declared_area_detail,0,https://profiles.ucalgary.ca/gloria-roldan-urgoiti,source_declared
+mem_4ee060e99b,Breast Cancer,declared_area_detail,1,https://profiles.ucalgary.ca/gloria-roldan-urgoiti,source_declared
+mem_4f4215a32e,Digital Health,declared_area_list,0,https://profiles.ucalgary.ca/sayeh-bayat,source_declared
+mem_4f4215a32e,AI in Medicine,declared_area_list,1,https://profiles.ucalgary.ca/sayeh-bayat,source_declared
+mem_4f4215a32e,Digital Biomarkers,declared_area_list,2,https://profiles.ucalgary.ca/sayeh-bayat,source_declared
+mem_4f4215a32e,Human-centred Machine Learning,declared_area_list,3,https://profiles.ucalgary.ca/sayeh-bayat,source_declared
+mem_4f4215a32e,Smart Mobility,declared_area_list,4,https://profiles.ucalgary.ca/sayeh-bayat,source_declared
+mem_4f4215a32e,Healthy Aging,declared_area_list,5,https://profiles.ucalgary.ca/sayeh-bayat,source_declared
+mem_4fc16fbe9a,"Mental health, Health Systems",declared_area_list,0,https://profiles.ucalgary.ca/danijela-piskulic,source_declared
+mem_4fcca18975,Brain,declared_area_title,0,https://profiles.ucalgary.ca/frank-macmaster,source_declared
+mem_4fcca18975,Brain Stimulation,declared_area_title,1,https://profiles.ucalgary.ca/frank-macmaster,source_declared
+mem_4fcca18975,Mental Illness,declared_area_title,2,https://profiles.ucalgary.ca/frank-macmaster,source_declared
+mem_4fcca18975,Neurodevelopmental disorders,declared_area_title,3,https://profiles.ucalgary.ca/frank-macmaster,source_declared
+mem_4fcca18975,Neuroimaging,declared_area_title,4,https://profiles.ucalgary.ca/frank-macmaster,source_declared
+mem_50e629396d,Suicide,declared_area_title,0,https://profiles.ucalgary.ca/eric-chan,source_declared
+mem_50e629396d,Psychiatric Rating Scales,declared_area_title,1,https://profiles.ucalgary.ca/eric-chan,source_declared
+mem_50e629396d,e-Mental Health,declared_area_title,2,https://profiles.ucalgary.ca/eric-chan,source_declared
+mem_50e629396d,Bipolar Disorder,declared_area_title,3,https://profiles.ucalgary.ca/eric-chan,source_declared
+mem_50e629396d,Depression,declared_area_title,4,https://profiles.ucalgary.ca/eric-chan,source_declared
+mem_50e629396d,Emergency Psychiatry,declared_area_title,5,https://profiles.ucalgary.ca/eric-chan,source_declared
+mem_514df516d2,Signal transduction,declared_area_detail,0,https://profiles.ucalgary.ca/h-artee-luchman,source_declared
+mem_514df516d2,Oncology,declared_area_detail,1,https://profiles.ucalgary.ca/h-artee-luchman,source_declared
+mem_514df516d2,Disease Models,declared_area_detail,2,https://profiles.ucalgary.ca/h-artee-luchman,source_declared
+mem_514df516d2,Therapeutics,declared_area_detail,3,https://profiles.ucalgary.ca/h-artee-luchman,source_declared
+mem_514df516d2,Developmental Biology,declared_area_detail,4,https://profiles.ucalgary.ca/h-artee-luchman,source_declared
+mem_514df516d2,Genetics,declared_area_detail,5,https://profiles.ucalgary.ca/h-artee-luchman,source_declared
+mem_514df516d2,Precision Medicine,declared_area_detail,6,https://profiles.ucalgary.ca/h-artee-luchman,source_declared
+mem_529c362d70,Pharmacogenomics,declared_area_list,0,https://profiles.ucalgary.ca/abdullah-al-maruf,source_declared
+mem_529c362d70,Precision Pharmacotherapy,declared_area_list,1,https://profiles.ucalgary.ca/abdullah-al-maruf,source_declared
+mem_529c362d70,Adverse Drug Reactions,declared_area_list,2,https://profiles.ucalgary.ca/abdullah-al-maruf,source_declared
+mem_529c362d70,Translational Pharmacotherapy,declared_area_list,3,https://profiles.ucalgary.ca/abdullah-al-maruf,source_declared
+mem_529c362d70,Population Therapeutics and Health Outcomes,declared_area_list,4,https://profiles.ucalgary.ca/abdullah-al-maruf,source_declared
+mem_529c362d70,Pharmacovigilance,declared_area_list,5,https://profiles.ucalgary.ca/abdullah-al-maruf,source_declared
+mem_529c362d70,Scholarship of Teaching and Learning,declared_area_list,6,https://profiles.ucalgary.ca/abdullah-al-maruf,source_declared
+mem_5357e9a762,Pain management,declared_area_list,0,https://profiles.ucalgary.ca/eloise-carr,source_declared
+mem_5357e9a762,Interprofessional education,declared_area_list,1,https://profiles.ucalgary.ca/eloise-carr,source_declared
+mem_5357e9a762,Mixed methods research,declared_area_list,2,https://profiles.ucalgary.ca/eloise-carr,source_declared
+mem_5357e9a762,Knowledge Translation,declared_area_list,3,https://profiles.ucalgary.ca/eloise-carr,source_declared
+mem_53686b30d5,Brain Stimulation,declared_area_title,0,https://profiles.ucalgary.ca/pierre-levan,source_declared
+mem_53686b30d5,Epilepsy,declared_area_title,1,https://profiles.ucalgary.ca/pierre-levan,source_declared
+mem_53686b30d5,Magnetic Resonance Imaging,declared_area_title,2,https://profiles.ucalgary.ca/pierre-levan,source_declared
+mem_53686b30d5,Neuroimaging,declared_area_title,3,https://profiles.ucalgary.ca/pierre-levan,source_declared
+mem_53686b30d5,Stroke,declared_area_title,4,https://profiles.ucalgary.ca/pierre-levan,source_declared
+mem_53c25f2cf7,Multiple Sclerosis,declared_area_list,0,https://profiles.ucalgary.ca/fiona-costello,source_declared
+mem_53c25f2cf7,Ophthalmology,declared_area_list,1,https://profiles.ucalgary.ca/fiona-costello,source_declared
+mem_53c25f2cf7,Visual pathways,declared_area_list,2,https://profiles.ucalgary.ca/fiona-costello,source_declared
+mem_53c25f2cf7,Central nervous system,declared_area_list,3,https://profiles.ucalgary.ca/fiona-costello,source_declared
+mem_53c25f2cf7,MS,declared_area_list,4,https://profiles.ucalgary.ca/fiona-costello,source_declared
+mem_53c25f2cf7,Tumors,declared_area_list,5,https://profiles.ucalgary.ca/fiona-costello,source_declared
+mem_53d8f553c6,Improving the diagnosis of occult malignancy in cryptogenic ischemic stroke patients,declared_area_detail,0,https://profiles.ucalgary.ca/ronda-lun,source_declared
+mem_53d8f553c6,Optimizing treatment strategies of ischemic stroke in cancer patients,declared_area_detail,1,https://profiles.ucalgary.ca/ronda-lun,source_declared
+mem_53d8f553c6,Prevention strategies for stroke in cancer patients,declared_area_detail,2,https://profiles.ucalgary.ca/ronda-lun,source_declared
+mem_53e60fab63,Multiple Sclerosis,declared_area_list,0,https://profiles.ucalgary.ca/katayoun-alikhani,source_declared
+mem_544d7ede34,Neuroscience - Motor Control,declared_area_title,0,https://profiles.ucalgary.ca/ryan-peters,source_declared
+mem_57d1619bfe,Neurodevelopment,declared_area_title,0,https://profiles.ucalgary.ca/nicole-racine-0,source_declared
+mem_581f118e90,Biomedical Engineering,declared_area_title,0,https://profiles.ucalgary.ca/mariana-pinheiro-bento,source_declared
+mem_581f118e90,Artificial Intelligence,declared_area_title,1,https://profiles.ucalgary.ca/mariana-pinheiro-bento,source_declared
+mem_581f118e90,Computer Vision,declared_area_title,2,https://profiles.ucalgary.ca/mariana-pinheiro-bento,source_declared
+mem_581f118e90,Brain Magnetic Resonance Imaging,declared_area_title,3,https://profiles.ucalgary.ca/mariana-pinheiro-bento,source_declared
+mem_58625c2ce5,Epilepsy,declared_area_title,0,https://profiles.ucalgary.ca/julia-jacobs-levan,source_declared
+mem_58625c2ce5,Seizures,declared_area_title,1,https://profiles.ucalgary.ca/julia-jacobs-levan,source_declared
+mem_58625c2ce5,Neuroimaging,declared_area_title,2,https://profiles.ucalgary.ca/julia-jacobs-levan,source_declared
+mem_58625c2ce5,Neurodevelopment,declared_area_title,3,https://profiles.ucalgary.ca/julia-jacobs-levan,source_declared
+mem_58625c2ce5,Sleep,declared_area_title,4,https://profiles.ucalgary.ca/julia-jacobs-levan,source_declared
+mem_599092b85f,Neuroscience and Rehabilitation,declared_area_title,0,https://profiles.ucalgary.ca/kelly-larkin-kaiser,source_declared
+mem_5df4c5aac6,Neuroendocrine tumours (Gastroenteropancreatic),declared_area_detail,0,https://profiles.ucalgary.ca/kirstie-lithgow,source_declared
+mem_5f0bb4bf6e,"Cardiovascular disease, Diabetes, Obesity, Clinical Trial, fMRI, Bipolar diseases, Depression, Microbiome",declared_area_title,0,https://profiles.ucalgary.ca/valerie-taylor,source_declared
+mem_5f8c42fffa,Brain,declared_area_title,0,https://profiles.ucalgary.ca/catherine-lebel,source_declared
+mem_5f8c42fffa,Brain Development,declared_area_title,1,https://profiles.ucalgary.ca/catherine-lebel,source_declared
+mem_5f8c42fffa,Neurodevelopment,declared_area_title,2,https://profiles.ucalgary.ca/catherine-lebel,source_declared
+mem_5f8c42fffa,Neurodevelopmental disorders,declared_area_title,3,https://profiles.ucalgary.ca/catherine-lebel,source_declared
+mem_5f8c42fffa,Neuroimaging,declared_area_title,4,https://profiles.ucalgary.ca/catherine-lebel,source_declared
+mem_5fb66a15c5,anesthesia,declared_area_title,0,https://profiles.ucalgary.ca/melinda-jane-davis,source_declared
+mem_5fb66a15c5,neuroradiology,declared_area_title,1,https://profiles.ucalgary.ca/melinda-jane-davis,source_declared
+mem_5fb66a15c5,Neurosurgery,declared_area_title,2,https://profiles.ucalgary.ca/melinda-jane-davis,source_declared
+mem_601dd6a6ac,Brain Development,declared_area_title,0,https://profiles.ucalgary.ca/bin-hu,source_declared
+mem_601dd6a6ac,Brain Stimulation,declared_area_title,1,https://profiles.ucalgary.ca/bin-hu,source_declared
+mem_60ca7c3bc6,Dementia,declared_area_title,0,https://profiles.ucalgary.ca/roger-thompson,source_declared
+mem_60ca7c3bc6,Stroke,declared_area_title,1,https://profiles.ucalgary.ca/roger-thompson,source_declared
+mem_61578b7504,Cognitive Development,declared_area_title,0,https://profiles.ucalgary.ca/susan-annetta-graham,source_declared
+mem_61578b7504,Speech/Language Development,declared_area_title,1,https://profiles.ucalgary.ca/susan-annetta-graham,source_declared
+mem_61578b7504,Summary,declared_area_title,2,https://profiles.ucalgary.ca/susan-annetta-graham,source_declared
+mem_622613bf11,Brain,declared_area_title,0,https://profiles.ucalgary.ca/signe-bray,source_declared
+mem_622613bf11,Cognitive Development,declared_area_title,1,https://profiles.ucalgary.ca/signe-bray,source_declared
+mem_622613bf11,Magnetic Resonance Imaging,declared_area_title,2,https://profiles.ucalgary.ca/signe-bray,source_declared
+mem_622613bf11,Neurodevelopment,declared_area_title,3,https://profiles.ucalgary.ca/signe-bray,source_declared
+mem_622613bf11,Neurodevelopmental disorders,declared_area_title,4,https://profiles.ucalgary.ca/signe-bray,source_declared
+mem_622613bf11,Neuroimaging,declared_area_title,5,https://profiles.ucalgary.ca/signe-bray,source_declared
+mem_65229f6177,"Child Mental Health, Parenting, and Parent-Child Relationships",declared_area_title,0,https://profiles.ucalgary.ca/sheri-madigan,source_declared
+mem_65229f6177,Child Maltreatment and Intergenerational Effects,declared_area_title,1,https://profiles.ucalgary.ca/sheri-madigan,source_declared
+mem_65229f6177,"Digital Media, Screen Use, and Technoference",declared_area_title,2,https://profiles.ucalgary.ca/sheri-madigan,source_declared
+mem_65229f6177,Community Partnerships and Digital Health Solutions,declared_area_title,3,https://profiles.ucalgary.ca/sheri-madigan,source_declared
+mem_65229f6177,"Research program, contributions, outreach, and team",declared_area_title,4,https://profiles.ucalgary.ca/sheri-madigan,source_declared
+mem_67336e1dbb,Brain Injury,declared_area_title,0,https://profiles.ucalgary.ca/alex-lohman,source_declared
+mem_67336e1dbb,Inflammation,declared_area_title,1,https://profiles.ucalgary.ca/alex-lohman,source_declared
+mem_67336e1dbb,Molecular Mechanisms,declared_area_title,2,https://profiles.ucalgary.ca/alex-lohman,source_declared
+mem_67336e1dbb,Stroke,declared_area_title,3,https://profiles.ucalgary.ca/alex-lohman,source_declared
+mem_67336e1dbb,Tissue Regeneration,declared_area_title,4,https://profiles.ucalgary.ca/alex-lohman,source_declared
+mem_6734c9213c,"Clinical Care, Neonatology, Patient and Family Centered Care, Quality Improvement, Vision",declared_area_title,0,https://profiles.ucalgary.ca/stephanie-dotchin,source_declared
+mem_684e36a1b2,Spinal Cord / Nerve Injury & Pain,declared_area_title,0,https://profiles.ucalgary.ca/steven-casha,source_declared
+mem_6a59c524fe,Adaptive sensorimotor system for walking,declared_area_list,0,https://profiles.ucalgary.ca/william-alexander-fletcher,source_declared
+mem_6a59c524fe,Vestibular function,declared_area_list,1,https://profiles.ucalgary.ca/william-alexander-fletcher,source_declared
+mem_6a59c524fe,Oculomotor function,declared_area_list,2,https://profiles.ucalgary.ca/william-alexander-fletcher,source_declared
+mem_6a59c524fe,Movement disorders,declared_area_list,3,https://profiles.ucalgary.ca/william-alexander-fletcher,source_declared
+mem_6a681336c2,Mental Health - Intergrating Clinical and Health Services Research,declared_area_title,0,https://profiles.ucalgary.ca/donald-emile-addington,source_declared
+mem_6a980d0db4,Spinal Cord / Nerve Injury & Pain,declared_area_title,0,https://profiles.ucalgary.ca/rebecca-charbonneau,source_declared
+mem_6a980d0db4,Spinal cord injury,declared_area_title,1,https://profiles.ucalgary.ca/rebecca-charbonneau,source_declared
+mem_6a980d0db4,Acute spinal cord injury,declared_area_title,2,https://profiles.ucalgary.ca/rebecca-charbonneau,source_declared
+mem_6a980d0db4,FES,declared_area_title,3,https://profiles.ucalgary.ca/rebecca-charbonneau,source_declared
+mem_6a980d0db4,exoskeletons,declared_area_title,4,https://profiles.ucalgary.ca/rebecca-charbonneau,source_declared
+mem_6a980d0db4,Neuropathic pain,declared_area_title,5,https://profiles.ucalgary.ca/rebecca-charbonneau,source_declared
+mem_6a980d0db4,Neurogenic bladder and pressure injuries,declared_area_title,6,https://profiles.ucalgary.ca/rebecca-charbonneau,source_declared
+mem_6abb226805,Dementia & Cognitive Disorders,declared_area_title,0,https://profiles.ucalgary.ca/jayna-holroyd-leduc,source_declared
+mem_6abb226805,Seniors,declared_area_title,1,https://profiles.ucalgary.ca/jayna-holroyd-leduc,source_declared
+mem_6afc7989eb,Mental Health,declared_area_title,0,https://profiles.ucalgary.ca/audrey-ann-deneault,source_declared
+mem_6b37eba80f,Internal Attention,declared_area_list,0,https://profiles.ucalgary.ca/julia-kam,source_declared
+mem_6b37eba80f,Mind Wandering,declared_area_list,1,https://profiles.ucalgary.ca/julia-kam,source_declared
+mem_6b37eba80f,Scalp and Intracranial EEG,declared_area_list,2,https://profiles.ucalgary.ca/julia-kam,source_declared
+mem_6b37eba80f,Stroke,declared_area_list,3,https://profiles.ucalgary.ca/julia-kam,source_declared
+mem_6bb59a60cb,Epilepsy,declared_area_title,0,https://profiles.ucalgary.ca/yves-starreveld,source_declared
+mem_6c0f4891e4,Mental health Research and Education,declared_area_list,0,https://profiles.ucalgary.ca/kimberley-smaniotto-holmes,source_declared
+mem_6d56bbe087,"Molecular physiology of the K-dependent Na/Ca-exchanger, subtype 4, NCKX4",declared_area_detail,0,https://profiles.ucalgary.ca/jonathan-lytton,source_declared
+mem_6d98d2c6bc,Neuropharmacology,declared_area_list,0,https://profiles.ucalgary.ca/sheldon-roth,source_declared
+mem_6d98d2c6bc,Environmental toxicology,declared_area_list,1,https://profiles.ucalgary.ca/sheldon-roth,source_declared
+mem_6d98d2c6bc,Medical pharmacology,declared_area_list,2,https://profiles.ucalgary.ca/sheldon-roth,source_declared
+mem_6d98d2c6bc,Anesthetic agents,declared_area_list,3,https://profiles.ucalgary.ca/sheldon-roth,source_declared
+mem_6da65fe265,Spinal Cord / Nerve Injury & Pain,declared_area_title,0,https://profiles.ucalgary.ca/boguslaw-tomanek,source_declared
+mem_6dce23a68b,dementia,declared_area_title,0,https://profiles.ucalgary.ca/brandy-callahan,source_declared
+mem_6e27953757,Mental Health,declared_area_list,0,https://profiles.ucalgary.ca/katherine-bright,source_declared
+mem_6f76ca3c25,"Addiction including methamphetamines, opioids, and alcohol",declared_area_title,0,https://profiles.ucalgary.ca/monty-ghosh,source_declared
+mem_6f76ca3c25,Healthcare and Homelessness,declared_area_title,1,https://profiles.ucalgary.ca/monty-ghosh,source_declared
+mem_6f76ca3c25,Health and Corrections,declared_area_title,2,https://profiles.ucalgary.ca/monty-ghosh,source_declared
+mem_6f76ca3c25,Harm Reduction,declared_area_title,3,https://profiles.ucalgary.ca/monty-ghosh,source_declared
+mem_6f76ca3c25,Recovery Oriented Treatments,declared_area_title,4,https://profiles.ucalgary.ca/monty-ghosh,source_declared
+mem_6f76ca3c25,Linkage to Care and Transitions in Care,declared_area_title,5,https://profiles.ucalgary.ca/monty-ghosh,source_declared
+mem_707257fb34,Social determinants of health,declared_area_list,0,https://profiles.ucalgary.ca/jenny-godley,source_declared
+mem_707257fb34,Social network analysis,declared_area_list,1,https://profiles.ucalgary.ca/jenny-godley,source_declared
+mem_707257fb34,Gender,declared_area_list,2,https://profiles.ucalgary.ca/jenny-godley,source_declared
+mem_707257fb34,Stigma and discrimination,declared_area_list,3,https://profiles.ucalgary.ca/jenny-godley,source_declared
+mem_707257fb34,Demography,declared_area_list,4,https://profiles.ucalgary.ca/jenny-godley,source_declared
+mem_707257fb34,Weight-related health,declared_area_list,5,https://profiles.ucalgary.ca/jenny-godley,source_declared
+mem_707257fb34,Ethics of research with human participants,declared_area_list,6,https://profiles.ucalgary.ca/jenny-godley,source_declared
+mem_707257fb34,Transdisciplinary research evaluation,declared_area_list,7,https://profiles.ucalgary.ca/jenny-godley,source_declared
+mem_7467cd8626,Mental Health,declared_area_title,0,https://profiles.ucalgary.ca/lori-montgomery,source_declared
+mem_7467cd8626,Spinal Cord / Nerve Injury & Pain,declared_area_title,1,https://profiles.ucalgary.ca/lori-montgomery,source_declared
+mem_7467cd8626,pain,declared_area_title,2,https://profiles.ucalgary.ca/lori-montgomery,source_declared
+mem_7467cd8626,Chronic Pain,declared_area_title,3,https://profiles.ucalgary.ca/lori-montgomery,source_declared
+mem_7467cd8626,post-traumatic headache,declared_area_title,4,https://profiles.ucalgary.ca/lori-montgomery,source_declared
+mem_7467cd8626,Opioids,declared_area_title,5,https://profiles.ucalgary.ca/lori-montgomery,source_declared
+mem_74c0a59289,cognitive informatics,declared_area_title,0,https://profiles.ucalgary.ca/yingxu-wang,source_declared
+mem_74c0a59289,cognitive robotics,declared_area_title,1,https://profiles.ucalgary.ca/yingxu-wang,source_declared
+mem_750ab2b996,Please refer to my Google Site for details,declared_area_title,0,https://profiles.ucalgary.ca/quan-long,source_declared
+mem_7892ba722a,"Behaviour, Mental Health, Maternal Health, Nutrition",declared_area_title,0,https://profiles.ucalgary.ca/bonnie-kaplan,source_declared
+mem_79f23a1fd5,Conditions Causing Ligamentous Laxity,declared_area_list,0,https://profiles.ucalgary.ca/ranita-manocha,source_declared
+mem_79f23a1fd5,Bracing,declared_area_list,1,https://profiles.ucalgary.ca/ranita-manocha,source_declared
+mem_79f23a1fd5,Gait and Walking Aids,declared_area_list,2,https://profiles.ucalgary.ca/ranita-manocha,source_declared
+mem_79f23a1fd5,Upper Limb Biomechanics,declared_area_list,3,https://profiles.ucalgary.ca/ranita-manocha,source_declared
+mem_7a1797f182,Neuroimmunity,declared_area_title,0,https://profiles.ucalgary.ca/bryan-yipp,source_declared
+mem_7be3b79e71,Mental Health,declared_area_title,0,https://profiles.ucalgary.ca/laura-curiel,source_declared
+mem_7d3968111f,Neuroepidemiology and Health Services Research,declared_area_list,0,https://profiles.ucalgary.ca/jodie-roberts,source_declared
+mem_7d3968111f,Causal Inference,declared_area_list,1,https://profiles.ucalgary.ca/jodie-roberts,source_declared
+mem_7d3968111f,Multiple Sclerosis,declared_area_list,2,https://profiles.ucalgary.ca/jodie-roberts,source_declared
+mem_7d3968111f,Neurosarcoidosis,declared_area_list,3,https://profiles.ucalgary.ca/jodie-roberts,source_declared
+mem_7d3968111f,Autoimmune Encephalitis,declared_area_list,4,https://profiles.ucalgary.ca/jodie-roberts,source_declared
+mem_81c06ea20f,Brain Development,declared_area_title,0,https://profiles.ucalgary.ca/richard-bernard-hawkes,source_declared
+mem_81c06ea20f,Molecular Mechanisms,declared_area_title,1,https://profiles.ucalgary.ca/richard-bernard-hawkes,source_declared
+mem_82005c4912,"Neurovascular coupling, Stress, Alzheimer's disease",declared_area_title,0,https://profiles.ucalgary.ca/grant-robert-gordon,source_declared
+mem_830cb17f4e,Neuromuscular function and disease,declared_area_title,0,https://profiles.ucalgary.ca/guillaume-millet,source_declared
+mem_834ac572c9,Stroke,declared_area_title,0,https://profiles.ucalgary.ca/steven-peters,source_declared
+mem_8466f664c9,Brain development; Neurodevelopmental disorder; Gene Regulation; Neural stem cell; Neuronal function; Rare disease,declared_area_title,0,https://profiles.ucalgary.ca/guang-yang-0,source_declared
+mem_84f207cee7,Development and application of new imaging techniques and tools in humans,declared_area_title,0,https://profiles.ucalgary.ca/richard-frayne,source_declared
+mem_84f207cee7,"Study, detection and treatment of neurovascular disease and brain cancer",declared_area_title,1,https://profiles.ucalgary.ca/richard-frayne,source_declared
+mem_84f207cee7,Bridging natural science and engineering through to clinical application,declared_area_title,2,https://profiles.ucalgary.ca/richard-frayne,source_declared
+mem_84f207cee7,"Collaborates with other researchers on the imaging of ALS, concussion, and epilepsy",declared_area_title,3,https://profiles.ucalgary.ca/richard-frayne,source_declared
+mem_86be4543f1,Autism,declared_area_title,0,https://profiles.ucalgary.ca/michael-adrian-colicos,source_declared
+mem_86be4543f1,Epilepsy,declared_area_title,1,https://profiles.ucalgary.ca/michael-adrian-colicos,source_declared
+mem_86be4543f1,Molecular Mechanisms,declared_area_title,2,https://profiles.ucalgary.ca/michael-adrian-colicos,source_declared
+mem_86be4543f1,Neuroplasticity,declared_area_title,3,https://profiles.ucalgary.ca/michael-adrian-colicos,source_declared
+mem_86be4543f1,Synapsis,declared_area_title,4,https://profiles.ucalgary.ca/michael-adrian-colicos,source_declared
+mem_8777c1db23,Scholarly Activity,declared_area_title,0,https://profiles.ucalgary.ca/tanya-mudry,source_declared
+mem_8777c1db23,Interests,declared_area_title,1,https://profiles.ucalgary.ca/tanya-mudry,source_declared
+mem_8b49df0680,neuroimmunology,declared_area_detail,0,https://profiles.ucalgary.ca/voon-wee-yong,source_declared
+mem_8b49df0680,neuroprotection,declared_area_detail,1,https://profiles.ucalgary.ca/voon-wee-yong,source_declared
+mem_8b49df0680,CNS regeneration,declared_area_detail,2,https://profiles.ucalgary.ca/voon-wee-yong,source_declared
+mem_8b49df0680,MS and brain tumors,declared_area_detail,3,https://profiles.ucalgary.ca/voon-wee-yong,source_declared
+mem_8bfbd806c9,"Genetic Disorders, Genomics, Neurodevelopmental Disorders, Rare Diseases",declared_area_title,0,https://profiles.ucalgary.ca/amanda-tyndall,source_declared
+mem_8cb7ffa789,Multiple Sclerosis,declared_area_title,0,https://profiles.ucalgary.ca/carlos-camara-lemarroy,source_declared
+mem_8cb7ffa789,Neuroimmunology,declared_area_title,1,https://profiles.ucalgary.ca/carlos-camara-lemarroy,source_declared
+mem_8cb7ffa789,MS,declared_area_title,2,https://profiles.ucalgary.ca/carlos-camara-lemarroy,source_declared
+mem_8d1d2f6903,Cardiology,declared_area_list,0,https://profiles.ucalgary.ca/omid-kiamanesh,source_declared
+mem_8e0084f520,Brain Tumorigenesis,declared_area_detail,0,https://profiles.ucalgary.ca/jennifer-chan,source_declared
+mem_8e0084f520,Molecular Mechanisms,declared_area_detail,1,https://profiles.ucalgary.ca/jennifer-chan,source_declared
+mem_90269b0602,Enteric nervous system,declared_area_title,0,https://profiles.ucalgary.ca/keith-alexander-sharkey,source_declared
+mem_90269b0602,Gut-brain axis,declared_area_title,1,https://profiles.ucalgary.ca/keith-alexander-sharkey,source_declared
+mem_90269b0602,Endocannabinoid system,declared_area_title,2,https://profiles.ucalgary.ca/keith-alexander-sharkey,source_declared
+mem_902f442140,Epilepsy,declared_area_title,0,https://profiles.ucalgary.ca/morris-scantlebury,source_declared
+mem_92099adba8,Computational and Systems Neuroscience,declared_area_list,0,https://profiles.ucalgary.ca/javier-orlandi,source_declared
+mem_92099adba8,Network neuroscience,declared_area_list,1,https://profiles.ucalgary.ca/javier-orlandi,source_declared
+mem_92099adba8,Complexity Science,declared_area_list,2,https://profiles.ucalgary.ca/javier-orlandi,source_declared
+mem_9211234ed6,Behavioural ecology of stress,declared_area_title,0,https://profiles.ucalgary.ca/kenneth-lukowiak,source_declared
+mem_92fd45a247,Biomedical Engineering,declared_area_title,0,https://profiles.ucalgary.ca/colin-dalton,source_declared
+mem_92fd45a247,Micro Nano Fabrication,declared_area_title,1,https://profiles.ucalgary.ca/colin-dalton,source_declared
+mem_92fd45a247,Microneedles,declared_area_title,2,https://profiles.ucalgary.ca/colin-dalton,source_declared
+mem_92fd45a247,Electrokinetics,declared_area_title,3,https://profiles.ucalgary.ca/colin-dalton,source_declared
+mem_92fd45a247,Brain Machine Interfaces,declared_area_title,4,https://profiles.ucalgary.ca/colin-dalton,source_declared
+mem_9461efbef5,Infant,declared_area_title,0,https://profiles.ucalgary.ca/alan-mcluckie,source_declared
+mem_9461efbef5,child and youth mental health,declared_area_title,1,https://profiles.ucalgary.ca/alan-mcluckie,source_declared
+mem_9461efbef5,neurodevelopmental and learning difficulties,declared_area_title,2,https://profiles.ucalgary.ca/alan-mcluckie,source_declared
+mem_9461efbef5,vulnerable family coping,declared_area_title,3,https://profiles.ucalgary.ca/alan-mcluckie,source_declared
+mem_9461efbef5,couple/family therapy,declared_area_title,4,https://profiles.ucalgary.ca/alan-mcluckie,source_declared
+mem_95295c7522,Multiple Sclerosis,declared_area_title,0,https://profiles.ucalgary.ca/marcus-koch,source_declared
+mem_953f193ead,Brain,declared_area_title,0,https://profiles.ucalgary.ca/naweed-imam-syed,source_declared
+mem_953f193ead,Molecular Mechanisms,declared_area_title,1,https://profiles.ucalgary.ca/naweed-imam-syed,source_declared
+mem_953f193ead,Neurodevelopment,declared_area_title,2,https://profiles.ucalgary.ca/naweed-imam-syed,source_declared
+mem_953f193ead,Neuroplasticity,declared_area_title,3,https://profiles.ucalgary.ca/naweed-imam-syed,source_declared
+mem_953f193ead,Synapsis,declared_area_title,4,https://profiles.ucalgary.ca/naweed-imam-syed,source_declared
+mem_95cc419952,School Mental Health,declared_area_list,0,https://profiles.ucalgary.ca/deinera-exner-cortens,source_declared
+mem_95cc419952,Violence Prevention,declared_area_list,1,https://profiles.ucalgary.ca/deinera-exner-cortens,source_declared
+mem_95cc419952,Healthy Relationships,declared_area_list,2,https://profiles.ucalgary.ca/deinera-exner-cortens,source_declared
+mem_95cc419952,Suicide Prevention,declared_area_list,3,https://profiles.ucalgary.ca/deinera-exner-cortens,source_declared
+mem_95cc419952,Program Evaluation,declared_area_list,4,https://profiles.ucalgary.ca/deinera-exner-cortens,source_declared
+mem_95cc419952,Adolescent Dating Violence,declared_area_list,5,https://profiles.ucalgary.ca/deinera-exner-cortens,source_declared
+mem_980064fac2,"Canadian Biomarker Integration Network in Depression (www.canbind.ca), Mental Health",declared_area_list,0,https://profiles.ucalgary.ca/stefanie-hassel,source_declared
+mem_98015aef5e,Autoimmunity,declared_area_list,0,https://profiles.ucalgary.ca/pedro-santamaria,source_declared
+mem_98015aef5e,Antigen-specific Therapy,declared_area_list,1,https://profiles.ucalgary.ca/pedro-santamaria,source_declared
+mem_98015aef5e,Nanotechnology,declared_area_list,2,https://profiles.ucalgary.ca/pedro-santamaria,source_declared
+mem_98307ce526,Theoretical Orientations,declared_area_title,0,https://profiles.ucalgary.ca/gabrielle-wilcox,source_declared
+mem_98307ce526,Scholarly Activity,declared_area_title,1,https://profiles.ucalgary.ca/gabrielle-wilcox,source_declared
+mem_98307ce526,Interests,declared_area_title,2,https://profiles.ucalgary.ca/gabrielle-wilcox,source_declared
+mem_99694aed87,"Cellular and molecular mechanisms of neuronal aging and neurodegeneration, Neurotoxicology of aquatic pollutants",declared_area_list,0,https://profiles.ucalgary.ca/willem-wildering,source_declared
+mem_9a7286569d,Traumatic Brain Injury,declared_area_title,0,https://profiles.ucalgary.ca/rodney-li-pi-shan,source_declared
+mem_9a7286569d,Brain Injury,declared_area_title,1,https://profiles.ucalgary.ca/rodney-li-pi-shan,source_declared
+mem_9a7286569d,Neuromuscular diseases,declared_area_title,2,https://profiles.ucalgary.ca/rodney-li-pi-shan,source_declared
+mem_9a7286569d,ALS,declared_area_title,3,https://profiles.ucalgary.ca/rodney-li-pi-shan,source_declared
+mem_9a7286569d,Neuromusculoskeletal disorders,declared_area_title,4,https://profiles.ucalgary.ca/rodney-li-pi-shan,source_declared
+mem_9afdacf59c,Epidemiology,declared_area_list,0,https://profiles.ucalgary.ca/scott-burton-patten,source_declared
+mem_9afdacf59c,Mental Illness,declared_area_list,1,https://profiles.ucalgary.ca/scott-burton-patten,source_declared
+mem_9afdacf59c,Population Health,declared_area_list,2,https://profiles.ucalgary.ca/scott-burton-patten,source_declared
+mem_9afdacf59c,Major Depression,declared_area_list,3,https://profiles.ucalgary.ca/scott-burton-patten,source_declared
+mem_9afdacf59c,Bipolar Disorder,declared_area_list,4,https://profiles.ucalgary.ca/scott-burton-patten,source_declared
+mem_9c853bf265,"Brain Injury and Development, Preterm birth, Neuro-imaging, Neurodevelopment",declared_area_title,0,https://profiles.ucalgary.ca/lara-leijser,source_declared
+mem_9caecf64a4,Brain Stimulation,declared_area_title,0,https://profiles.ucalgary.ca/adrianna-giuffre,source_declared
+mem_9caecf64a4,Mental Health,declared_area_title,1,https://profiles.ucalgary.ca/adrianna-giuffre,source_declared
+mem_9caecf64a4,Neurodevelopment Disorders,declared_area_title,2,https://profiles.ucalgary.ca/adrianna-giuffre,source_declared
+mem_9caecf64a4,Neuroimaging,declared_area_title,3,https://profiles.ucalgary.ca/adrianna-giuffre,source_declared
+mem_9caecf64a4,Epilepsy,declared_area_title,4,https://profiles.ucalgary.ca/adrianna-giuffre,source_declared
+mem_9caecf64a4,Multiple Sclerosis,declared_area_title,5,https://profiles.ucalgary.ca/adrianna-giuffre,source_declared
+mem_9d290c25df,"Brain Injury, Neurocritical Care, Translational Biology",declared_area_title,0,https://profiles.ucalgary.ca/michael-esser,source_declared
+mem_9d290c25df,Determinants of Health,declared_area_title,1,https://profiles.ucalgary.ca/michael-esser,source_declared
+mem_9d290c25df,Health Outcomes,declared_area_title,2,https://profiles.ucalgary.ca/michael-esser,source_declared
+mem_9d290c25df,Knowledge Translation,declared_area_title,3,https://profiles.ucalgary.ca/michael-esser,source_declared
+mem_9d290c25df,Novel Therapeutics,declared_area_title,4,https://profiles.ucalgary.ca/michael-esser,source_declared
+mem_9f51021d60,"Lipidomics (analytical methods using chromatography and mass spectrometry, database creation, software development, data sciences)",declared_area_title,0,https://profiles.ucalgary.ca/adriana-zardini-buzatto,source_declared
+mem_9f51021d60,Microbial lipidomics,declared_area_title,1,https://profiles.ucalgary.ca/adriana-zardini-buzatto,source_declared
+mem_9f51021d60,Lipidomics of extracellular vesicles,declared_area_title,2,https://profiles.ucalgary.ca/adriana-zardini-buzatto,source_declared
+mem_9f51021d60,Lipids involved in neurodegeneration and aging,declared_area_title,3,https://profiles.ucalgary.ca/adriana-zardini-buzatto,source_declared
+mem_9f51021d60,Exposomics - environmental lipidomics,declared_area_title,4,https://profiles.ucalgary.ca/adriana-zardini-buzatto,source_declared
+mem_a04b5207a5,Biostatistics,declared_area_title,0,https://profiles.ucalgary.ca/emma-towlson,source_declared
+mem_a04b5207a5,Brain,declared_area_title,1,https://profiles.ucalgary.ca/emma-towlson,source_declared
+mem_a04b5207a5,Mental Health,declared_area_title,2,https://profiles.ucalgary.ca/emma-towlson,source_declared
+mem_a04b5207a5,Mental Illness,declared_area_title,3,https://profiles.ucalgary.ca/emma-towlson,source_declared
+mem_a04b5207a5,Simulation,declared_area_title,4,https://profiles.ucalgary.ca/emma-towlson,source_declared
+mem_a055827ead,"Stroke and cerebro-vascular disorders, Epidemiology of stroke and vascular diseases",declared_area_list,0,https://profiles.ucalgary.ca/michael-hill,source_declared
+mem_a0bb31cffa,"C-STEMS Project as a CIH Working Group -- Centre for Science, Technology, Environment, and Medicine Studies",declared_area_title,0,https://profiles.ucalgary.ca/frank-stahnisch,source_declared
+mem_a1ecc4eb97,Genetic Disorders,declared_area_title,0,https://profiles.ucalgary.ca/micheil-innes,source_declared
+mem_a1ecc4eb97,Rare diseases,declared_area_title,1,https://profiles.ucalgary.ca/micheil-innes,source_declared
+mem_a27c0b453b,Autism,declared_area_title,0,https://profiles.ucalgary.ca/ning-cheng,source_declared
+mem_a27c0b453b,Behavior,declared_area_title,1,https://profiles.ucalgary.ca/ning-cheng,source_declared
+mem_a27c0b453b,Model organisms,declared_area_title,2,https://profiles.ucalgary.ca/ning-cheng,source_declared
+mem_a27c0b453b,Neural circuit and molecular mechanisms,declared_area_title,3,https://profiles.ucalgary.ca/ning-cheng,source_declared
+mem_a27c0b453b,Neurodevelopmental disorders,declared_area_title,4,https://profiles.ucalgary.ca/ning-cheng,source_declared
+mem_a2b493336b,Childhood Brain Injury,declared_area_title,0,https://profiles.ucalgary.ca/keith-yeates,source_declared
+mem_a3c1370499,Concussion,declared_area_title,0,https://profiles.ucalgary.ca/kathryn-schneider,source_declared
+mem_a3c1370499,Rehabilitation,declared_area_title,1,https://profiles.ucalgary.ca/kathryn-schneider,source_declared
+mem_a4dc36ebf7,Pain and opioids,declared_area_title,0,https://profiles.ucalgary.ca/tuan-trang,source_declared
+mem_a5c016ebe3,Genetic Disorders,declared_area_title,0,https://profiles.ucalgary.ca/gerald-pfeffer,source_declared
+mem_a5c016ebe3,Mitochondria,declared_area_title,1,https://profiles.ucalgary.ca/gerald-pfeffer,source_declared
+mem_a5c016ebe3,Neuromuscular function and disease,declared_area_title,2,https://profiles.ucalgary.ca/gerald-pfeffer,source_declared
+mem_a68812ef9c,"Diet, Maternal Health, Nutrition, Obesity",declared_area_title,0,https://profiles.ucalgary.ca/leticia-radin-pereira,source_declared
+mem_a80c7bc771,"Oscillation and synchrony in the limbic cortex, function of the posterior hypothalamus",declared_area_title,0,https://profiles.ucalgary.ca/brian-herbert-bland,source_declared
+mem_aa5f0f5195,Multiple Sclerosis,declared_area_list,0,https://profiles.ucalgary.ca/lenora-brown,source_declared
+mem_aa8dee36aa,Fetal Neurology,declared_area_title,0,https://profiles.ucalgary.ca/mary-dunbar,source_declared
+mem_aa8dee36aa,Perinatal brain injury,declared_area_title,1,https://profiles.ucalgary.ca/mary-dunbar,source_declared
+mem_aab2d35ab1,Multiple Sclerosis,declared_area_title,0,https://profiles.ucalgary.ca/scott-jarvis,source_declared
+mem_aab2d35ab1,symptom management,declared_area_title,1,https://profiles.ucalgary.ca/scott-jarvis,source_declared
+mem_aab2d35ab1,pain,declared_area_title,2,https://profiles.ucalgary.ca/scott-jarvis,source_declared
+mem_ab3c7cd459,Mental Health,declared_area_title,0,https://profiles.ucalgary.ca/alexander-mcgirr,source_declared
+mem_ab3c7cd459,Stress,declared_area_title,1,https://profiles.ucalgary.ca/alexander-mcgirr,source_declared
+mem_ab971ed904,Nerve Injury,declared_area_title,0,https://profiles.ucalgary.ca/rajiv-midha,source_declared
+mem_ab971ed904,Nerve Regeneration,declared_area_title,1,https://profiles.ucalgary.ca/rajiv-midha,source_declared
+mem_ab971ed904,Nerve Surgery,declared_area_title,2,https://profiles.ucalgary.ca/rajiv-midha,source_declared
+mem_ab971ed904,Stem Cells,declared_area_title,3,https://profiles.ucalgary.ca/rajiv-midha,source_declared
+mem_ab971ed904,Axon Myelination,declared_area_title,4,https://profiles.ucalgary.ca/rajiv-midha,source_declared
+mem_ab971ed904,Multiple Sclerosis,declared_area_title,5,https://profiles.ucalgary.ca/rajiv-midha,source_declared
+mem_ab971ed904,Spinal Cord / Nerve Injury & Pain,declared_area_title,6,https://profiles.ucalgary.ca/rajiv-midha,source_declared
+mem_ae209aa8cc,Mitochondria,declared_area_title,0,https://profiles.ucalgary.ca/timothy-shutt,source_declared
+mem_af812170e5,Psychosocial oncology,declared_area_detail,0,https://profiles.ucalgary.ca/janet-de-groot,source_declared
+mem_af812170e5,Advanced cancer,declared_area_detail,1,https://profiles.ucalgary.ca/janet-de-groot,source_declared
+mem_b07951c366,Artificial Intelligence,declared_area_list,0,https://profiles.ucalgary.ca/farhad-maleki,source_declared
+mem_b07951c366,Machine Learning,declared_area_list,1,https://profiles.ucalgary.ca/farhad-maleki,source_declared
+mem_b07951c366,Computer Vision,declared_area_list,2,https://profiles.ucalgary.ca/farhad-maleki,source_declared
+mem_b07951c366,Computational Neuroscience,declared_area_list,3,https://profiles.ucalgary.ca/farhad-maleki,source_declared
+mem_b07951c366,Biomedical Data Analysis,declared_area_list,4,https://profiles.ucalgary.ca/farhad-maleki,source_declared
+mem_b07951c366,Applied Machine Learning,declared_area_list,5,https://profiles.ucalgary.ca/farhad-maleki,source_declared
+mem_b1e13c5609,Multiple Sclerosis,declared_area_title,0,https://profiles.ucalgary.ca/luanne-marie-metz,source_declared
+mem_b49402b919,Mental Health,declared_area_title,0,https://profiles.ucalgary.ca/joanne-park,source_declared
+mem_b4cf5563b0,Epilepsy,declared_area_title,0,https://profiles.ucalgary.ca/colin-josephson,source_declared
+mem_b71fb09d51,"Neuroimaging, neuroplasticity, brain development, brain stimulation, stroke, epilepsy, traumatic brain injury, cognition, quality of life",declared_area_title,0,https://profiles.ucalgary.ca/helen-carlson,source_declared
+mem_b738ee42b4,Injury & Concussion Prevention,declared_area_list,0,https://profiles.ucalgary.ca/stephen-west,source_declared
+mem_b738ee42b4,Injury Epidemiology,declared_area_list,1,https://profiles.ucalgary.ca/stephen-west,source_declared
+mem_b738ee42b4,Training Load/Athlete Management,declared_area_list,2,https://profiles.ucalgary.ca/stephen-west,source_declared
+mem_b85b93eb26,Inflammation,declared_area_title,0,https://profiles.ucalgary.ca/aleksandra-mineyko,source_declared
+mem_b85b93eb26,Stroke,declared_area_title,1,https://profiles.ucalgary.ca/aleksandra-mineyko,source_declared
+mem_b8b5362a3f,Epidemiology,declared_area_title,0,https://profiles.ucalgary.ca/samuel-wiebe,source_declared
+mem_b8b5362a3f,Epilepsy,declared_area_title,1,https://profiles.ucalgary.ca/samuel-wiebe,source_declared
+mem_b8b5362a3f,Health Outcomes,declared_area_title,2,https://profiles.ucalgary.ca/samuel-wiebe,source_declared
+mem_b8b5362a3f,Population Health,declared_area_title,3,https://profiles.ucalgary.ca/samuel-wiebe,source_declared
+mem_bb45f29b7a,"Data Science for Mental Health, Addiction and Homelessness",declared_area_title,0,https://profiles.ucalgary.ca/geoffrey-messier,source_declared
+mem_bc444455ee,Developmental Genetics,declared_area_title,0,https://profiles.ucalgary.ca/deborah-kurrasch,source_declared
+mem_bc444455ee,Epilepsy,declared_area_title,1,https://profiles.ucalgary.ca/deborah-kurrasch,source_declared
+mem_bc444455ee,Model Organism,declared_area_title,2,https://profiles.ucalgary.ca/deborah-kurrasch,source_declared
+mem_bc444455ee,Novel Therapeutics,declared_area_title,3,https://profiles.ucalgary.ca/deborah-kurrasch,source_declared
+mem_bc444455ee,Neurogenetics,declared_area_title,4,https://profiles.ucalgary.ca/deborah-kurrasch,source_declared
+mem_bc444455ee,Developmental Neuroscience,declared_area_title,5,https://profiles.ucalgary.ca/deborah-kurrasch,source_declared
+mem_bc444455ee,Neurodevelopmental Disorders,declared_area_title,6,https://profiles.ucalgary.ca/deborah-kurrasch,source_declared
+mem_bc444455ee,Neuroinflammation,declared_area_title,7,https://profiles.ucalgary.ca/deborah-kurrasch,source_declared
+mem_bc444455ee,Neural Stem Cells,declared_area_title,8,https://profiles.ucalgary.ca/deborah-kurrasch,source_declared
+mem_bc444455ee,Cellular and Molecular Neuroscience,declared_area_title,9,https://profiles.ucalgary.ca/deborah-kurrasch,source_declared
+mem_bd049b4c73,Dementia & Cognitive Disorders,declared_area_title,0,https://profiles.ucalgary.ca/eric-smith,source_declared
+mem_bd049b4c73,Movement Disorders,declared_area_title,1,https://profiles.ucalgary.ca/eric-smith,source_declared
+mem_bd049b4c73,Stroke,declared_area_title,2,https://profiles.ucalgary.ca/eric-smith,source_declared
+mem_bd2c4a5235,"Neurodevelopmental Disorders, Mental Health, Machine Learning, Autism, Mitochondria",declared_area_title,0,https://profiles.ucalgary.ca/aaron-gruber,source_declared
+mem_bd39b96aae,Indigenous mental health,declared_area_title,0,https://profiles.ucalgary.ca/daniel-okoro,source_declared
+mem_bd39b96aae,Military psychiatry,declared_area_title,1,https://profiles.ucalgary.ca/daniel-okoro,source_declared
+mem_bd39b96aae,Suicides,declared_area_title,2,https://profiles.ucalgary.ca/daniel-okoro,source_declared
+mem_bd39b96aae,Cultural psychiatry,declared_area_title,3,https://profiles.ucalgary.ca/daniel-okoro,source_declared
+mem_bd39b96aae,Race and Professionalism in medical practice,declared_area_title,4,https://profiles.ucalgary.ca/daniel-okoro,source_declared
+mem_bdcc331ca3,Neuropsychology,declared_area_title,0,https://profiles.ucalgary.ca/richard-stewart-longman,source_declared
+mem_c05467d02f,Clinical research: biomarkers,declared_area_title,0,https://profiles.ucalgary.ca/davide-martino,source_declared
+mem_c05467d02f,Implementation Science,declared_area_title,1,https://profiles.ucalgary.ca/davide-martino,source_declared
+mem_c05467d02f,Non-invasive neuro modulation,declared_area_title,2,https://profiles.ucalgary.ca/davide-martino,source_declared
+mem_c162955191,Cardiorespiratory control: neuronal circuits and cellular sensors,declared_area_title,0,https://profiles.ucalgary.ca/richard-james-alfred-wilson,source_declared
+mem_c162955191,Sympathetic and parasympathetic nervous systems,declared_area_title,1,https://profiles.ucalgary.ca/richard-james-alfred-wilson,source_declared
+mem_c162955191,Respiratory rhythm generation and chemosensitivity,declared_area_title,2,https://profiles.ucalgary.ca/richard-james-alfred-wilson,source_declared
+mem_c162955191,Comparative physiology,declared_area_title,3,https://profiles.ucalgary.ca/richard-james-alfred-wilson,source_declared
+mem_c162955191,Translation and drug discovery,declared_area_title,4,https://profiles.ucalgary.ca/richard-james-alfred-wilson,source_declared
+mem_c162955191,Functional Optical Coherence Tomography (fOCT),declared_area_title,5,https://profiles.ucalgary.ca/richard-james-alfred-wilson,source_declared
+mem_c162955191,Foundational discoveries of importance to serious and prevalent cardiorespiratory diseases,declared_area_title,6,https://profiles.ucalgary.ca/richard-james-alfred-wilson,source_declared
+mem_c2e555277c,Imaging tumors with a cell mass of less than a million cells,declared_area_detail,0,https://profiles.ucalgary.ca/harry-peery,source_declared
+mem_c2e555277c,Effect of INGs on stem cells,declared_area_detail,1,https://profiles.ucalgary.ca/harry-peery,source_declared
+mem_c2f73113e5,Cognition | Attention | Memory | Mood | Emotion | Depression | Vulnerability | Individual Differences,declared_area_title,0,https://profiles.ucalgary.ca/christopher-sears,source_declared
+mem_c3e463f320,Modeling the initiation of Glioblastoma,declared_area_detail,0,https://profiles.ucalgary.ca/john-gregory-cairncross,source_declared
+mem_c3e463f320,Preventing resistance to Temozolomide,declared_area_detail,1,https://profiles.ucalgary.ca/john-gregory-cairncross,source_declared
+mem_c41824b375,Neurology and mental health,declared_area_title,0,https://profiles.ucalgary.ca/tamara-pringsheim,source_declared
+mem_c4a9f6ea6f,Brain and Cognition,declared_area_title,0,https://profiles.ucalgary.ca/giuseppe-iaria,source_declared
+mem_c4a9f6ea6f,Neuroimaging,declared_area_title,1,https://profiles.ucalgary.ca/giuseppe-iaria,source_declared
+mem_c4a9f6ea6f,Space Health,declared_area_title,2,https://profiles.ucalgary.ca/giuseppe-iaria,source_declared
+mem_c6249ccf21,"Cognition in PwMS, corticosteroids use for relapses in MS",declared_area_list,0,https://profiles.ucalgary.ca/sarah-morrow,source_declared
+mem_c6655391af,Genomics,declared_area_title,0,https://profiles.ucalgary.ca/nils-torben-bech-hansen,source_declared
+mem_c6655391af,Molecular Mechanisms,declared_area_title,1,https://profiles.ucalgary.ca/nils-torben-bech-hansen,source_declared
+mem_c6655391af,Synapsis,declared_area_title,2,https://profiles.ucalgary.ca/nils-torben-bech-hansen,source_declared
+mem_c6655391af,Vision,declared_area_title,3,https://profiles.ucalgary.ca/nils-torben-bech-hansen,source_declared
+mem_c6790bf1f8,Brain health and exercise,declared_area_title,0,https://profiles.ucalgary.ca/cindy-barha,source_declared
+mem_c695f19acd,Machine Learning,declared_area_title,0,https://profiles.ucalgary.ca/nils-daniel-forkert,source_declared
+mem_c695f19acd,Deep Learning,declared_area_title,1,https://profiles.ucalgary.ca/nils-daniel-forkert,source_declared
+mem_c695f19acd,Artificial Intelligence,declared_area_title,2,https://profiles.ucalgary.ca/nils-daniel-forkert,source_declared
+mem_c695f19acd,Medical Image Analysis,declared_area_title,3,https://profiles.ucalgary.ca/nils-daniel-forkert,source_declared
+mem_c695f19acd,Precision Medicine,declared_area_title,4,https://profiles.ucalgary.ca/nils-daniel-forkert,source_declared
+mem_c695f19acd,Digital Twin Technologies,declared_area_title,5,https://profiles.ucalgary.ca/nils-daniel-forkert,source_declared
+mem_c8e755d8b2,"Leukocyte trafficking, inflammation",declared_area_title,0,https://profiles.ucalgary.ca/kamala-devi-patel,source_declared
+mem_c9fd274cf3,Child Development,declared_area_list,0,https://profiles.ucalgary.ca/dawn-kingston,source_declared
+mem_c9fd274cf3,Health Services and Policy Research,declared_area_list,1,https://profiles.ucalgary.ca/dawn-kingston,source_declared
+mem_c9fd274cf3,Maternal Health,declared_area_list,2,https://profiles.ucalgary.ca/dawn-kingston,source_declared
+mem_c9fd274cf3,Perinatal Mental Health,declared_area_list,3,https://profiles.ucalgary.ca/dawn-kingston,source_declared
+mem_c9fd274cf3,Pregnancy,declared_area_list,4,https://profiles.ucalgary.ca/dawn-kingston,source_declared
+mem_c9fd274cf3,Resiliency,declared_area_list,5,https://profiles.ucalgary.ca/dawn-kingston,source_declared
+mem_c9fd274cf3,Application of e-technology to mental healthcare,declared_area_list,6,https://profiles.ucalgary.ca/dawn-kingston,source_declared
+mem_cb50148558,Spinal Cord / Nerve Injury & Pain,declared_area_title,0,https://profiles.ucalgary.ca/farnaz-amoozegar,source_declared
+mem_cc41b0bf3b,Prion and prion-like diseases,declared_area_title,0,https://profiles.ucalgary.ca/sabine-gilch,source_declared
+mem_ccd6df0b53,NSERC-funded Activities,declared_area_title,0,https://profiles.ucalgary.ca/gordon-campbell-teskey,source_declared
+mem_ccd6df0b53,CIHR Activities,declared_area_title,1,https://profiles.ucalgary.ca/gordon-campbell-teskey,source_declared
+mem_ccdb9fb0c5,"Depression, aging, MRI, EEG, network neuroscience",declared_area_title,0,https://profiles.ucalgary.ca/andrea-protzner,source_declared
+mem_cce204cb8c,Vulnerable children,declared_area_list,0,https://profiles.ucalgary.ca/nicole-letourneau,source_declared
+mem_cce204cb8c,Social support,declared_area_list,1,https://profiles.ucalgary.ca/nicole-letourneau,source_declared
+mem_cce204cb8c,Parent-infant/child relationships,declared_area_list,2,https://profiles.ucalgary.ca/nicole-letourneau,source_declared
+mem_cce204cb8c,Maternal mental health,declared_area_list,3,https://profiles.ucalgary.ca/nicole-letourneau,source_declared
+mem_cce204cb8c,Domestic abuse,declared_area_list,4,https://profiles.ucalgary.ca/nicole-letourneau,source_declared
+mem_cce204cb8c,Family environmental effects on child development,declared_area_list,5,https://profiles.ucalgary.ca/nicole-letourneau,source_declared
+mem_cce204cb8c,Genetics and epigenetics,declared_area_list,6,https://profiles.ucalgary.ca/nicole-letourneau,source_declared
+mem_cde9968348,Theoretical Orientations,declared_area_title,0,https://profiles.ucalgary.ca/erica-makarenko,source_declared
+mem_cde9968348,Interests,declared_area_title,1,https://profiles.ucalgary.ca/erica-makarenko,source_declared
+mem_cf878ce2e9,Interactions of microbes with metals,declared_area_title,0,https://profiles.ucalgary.ca/raymond-turner,source_declared
+mem_cf878ce2e9,Biotechnology of biogenic nanomaterial,declared_area_title,1,https://profiles.ucalgary.ca/raymond-turner,source_declared
+mem_cf878ce2e9,Microbial biofilms,declared_area_title,2,https://profiles.ucalgary.ca/raymond-turner,source_declared
+mem_cf878ce2e9,Antimicrobial Materials,declared_area_title,3,https://profiles.ucalgary.ca/raymond-turner,source_declared
+mem_cf878ce2e9,translocation of proteins and solutes across biological membranes,declared_area_title,4,https://profiles.ucalgary.ca/raymond-turner,source_declared
+mem_d21327a3f5,Genomics,declared_area_list,0,https://profiles.ucalgary.ca/chad-bousman,source_declared
+mem_d21327a3f5,Mental Illness,declared_area_list,1,https://profiles.ucalgary.ca/chad-bousman,source_declared
+mem_d21327a3f5,Pharmacotherapy,declared_area_list,2,https://profiles.ucalgary.ca/chad-bousman,source_declared
+mem_d21327a3f5,Pharmacogenomics,declared_area_list,3,https://profiles.ucalgary.ca/chad-bousman,source_declared
+mem_d2301d7aac,Mental Health,declared_area_title,0,https://profiles.ucalgary.ca/amy-warren,source_declared
+mem_d2301d7aac,Mental health research and education,declared_area_title,1,https://profiles.ucalgary.ca/amy-warren,source_declared
+mem_d2301d7aac,neuropsychology,declared_area_title,2,https://profiles.ucalgary.ca/amy-warren,source_declared
+mem_d2301d7aac,Clinical Science,declared_area_title,3,https://profiles.ucalgary.ca/amy-warren,source_declared
+mem_d2301d7aac,Comparative Pathobiology,declared_area_title,4,https://profiles.ucalgary.ca/amy-warren,source_declared
+mem_d3afbe9061,Memory Empowerment,declared_area_title,0,https://profiles.ucalgary.ca/novarun-deb,source_declared
+mem_d3afbe9061,Sustainable Software Engineering,declared_area_title,1,https://profiles.ucalgary.ca/novarun-deb,source_declared
+mem_d3afbe9061,Requirements Engineering,declared_area_title,2,https://profiles.ucalgary.ca/novarun-deb,source_declared
+mem_d3afbe9061,Transient Micro-services,declared_area_title,3,https://profiles.ucalgary.ca/novarun-deb,source_declared
+mem_d3afbe9061,Green DevOps,declared_area_title,4,https://profiles.ucalgary.ca/novarun-deb,source_declared
+mem_d4ec51610b,Autism; Neurodevelopmental Conditions; Mental Health; Patient Engagement; Psychology,declared_area_title,0,https://profiles.ucalgary.ca/ami-tint,source_declared
+mem_d4fd16a2fe,"Clinical trials in stroke rehabilitation, spasticity and peripheral nerve injury",declared_area_list,0,https://profiles.ucalgary.ca/stephen-michael-mcneil,source_declared
+mem_d63e7deb2d,Movement Disorders Pain and related nonmotor symptoms,declared_area_title,0,https://profiles.ucalgary.ca/veronica-bruno,source_declared
+mem_d670519f7b,Aging,declared_area_title,0,https://profiles.ucalgary.ca/david-hogan,source_declared
+mem_d71eba52b6,Healthy Brain Aging and Dementia,declared_area_title,0,https://profiles.ucalgary.ca/marc-poulin,source_declared
+mem_d71eba52b6,Integrative Human Physiology,declared_area_title,1,https://profiles.ucalgary.ca/marc-poulin,source_declared
+mem_d71eba52b6,Sleep,declared_area_title,2,https://profiles.ucalgary.ca/marc-poulin,source_declared
+mem_d71eba52b6,High Altitude Physiology,declared_area_title,3,https://profiles.ucalgary.ca/marc-poulin,source_declared
+mem_d71eba52b6,Role of Exercise in Prevention and Management of Chronic Diseases,declared_area_title,4,https://profiles.ucalgary.ca/marc-poulin,source_declared
+mem_d994767332,Stroke,declared_area_title,0,https://profiles.ucalgary.ca/mayank-goyal,source_declared
+mem_d994767332,diagnostic imaging,declared_area_title,1,https://profiles.ucalgary.ca/mayank-goyal,source_declared
+mem_d994767332,hyperacute stroke,declared_area_title,2,https://profiles.ucalgary.ca/mayank-goyal,source_declared
+mem_da080c48f2,neuromuscular disease,declared_area_title,0,https://profiles.ucalgary.ca/stephanie-ann-plamondon,source_declared
+mem_da080c48f2,neurorehab,declared_area_title,1,https://profiles.ucalgary.ca/stephanie-ann-plamondon,source_declared
+mem_da080c48f2,QI,declared_area_title,2,https://profiles.ucalgary.ca/stephanie-ann-plamondon,source_declared
+mem_da080c48f2,medical education,declared_area_title,3,https://profiles.ucalgary.ca/stephanie-ann-plamondon,source_declared
+mem_da080c48f2,Music therapy in healthcare,declared_area_title,4,https://profiles.ucalgary.ca/stephanie-ann-plamondon,source_declared
+mem_db95c2910e,Biosensing,declared_area_detail,0,https://profiles.ucalgary.ca/amir-sanati-nezhad,source_declared
+mem_db95c2910e,Sensors and Actuators,declared_area_detail,1,https://profiles.ucalgary.ca/amir-sanati-nezhad,source_declared
+mem_db95c2910e,Microfluidics,declared_area_detail,2,https://profiles.ucalgary.ca/amir-sanati-nezhad,source_declared
+mem_db95c2910e,Tissue engineering,declared_area_detail,3,https://profiles.ucalgary.ca/amir-sanati-nezhad,source_declared
+mem_db95c2910e,Biomaterials,declared_area_detail,4,https://profiles.ucalgary.ca/amir-sanati-nezhad,source_declared
+mem_db95c2910e,Medical devices,declared_area_detail,5,https://profiles.ucalgary.ca/amir-sanati-nezhad,source_declared
+mem_db95c2910e,Point-of-care,declared_area_detail,6,https://profiles.ucalgary.ca/amir-sanati-nezhad,source_declared
+mem_db95c2910e,Organ-on-chip,declared_area_detail,7,https://profiles.ucalgary.ca/amir-sanati-nezhad,source_declared
+mem_db95c2910e,Digital Health Technologies,declared_area_detail,8,https://profiles.ucalgary.ca/amir-sanati-nezhad,source_declared
+mem_db95c2910e,Artificial Intelligence,declared_area_detail,9,https://profiles.ucalgary.ca/amir-sanati-nezhad,source_declared
+mem_dd9d2855a1,Machine Learning,declared_area_list,0,https://profiles.ucalgary.ca/roberto-souza,source_declared
+mem_dd9d2855a1,Computer Vision and Image Processing,declared_area_list,1,https://profiles.ucalgary.ca/roberto-souza,source_declared
+mem_dd9d2855a1,Medical Imaging,declared_area_list,2,https://profiles.ucalgary.ca/roberto-souza,source_declared
+mem_dd9d2855a1,Ageing and Dementia,declared_area_list,3,https://profiles.ucalgary.ca/roberto-souza,source_declared
+mem_de66826bad,Theoretical Orientations,declared_area_title,0,https://profiles.ucalgary.ca/carly-mcmorris,source_declared
+mem_de66826bad,Scholarly Activity,declared_area_title,1,https://profiles.ucalgary.ca/carly-mcmorris,source_declared
+mem_de66826bad,Interests,declared_area_title,2,https://profiles.ucalgary.ca/carly-mcmorris,source_declared
+mem_df3ac5151d,Movement Disorders,declared_area_title,0,https://profiles.ucalgary.ca/camila-aquino,source_declared
+mem_dfec7f0e37,Mental Health,declared_area_title,0,https://profiles.ucalgary.ca/zelma-kiss,source_declared
+mem_dfec7f0e37,Movement Disorders,declared_area_title,1,https://profiles.ucalgary.ca/zelma-kiss,source_declared
+mem_dfec7f0e37,Spinal Cord/Never Injury & Pain,declared_area_title,2,https://profiles.ucalgary.ca/zelma-kiss,source_declared
+mem_dfec7f0e37,electrophysiology,declared_area_title,3,https://profiles.ucalgary.ca/zelma-kiss,source_declared
+mem_dfec7f0e37,neuromodulation,declared_area_title,4,https://profiles.ucalgary.ca/zelma-kiss,source_declared
+mem_dfec7f0e37,optical imaging,declared_area_title,5,https://profiles.ucalgary.ca/zelma-kiss,source_declared
+mem_dfec7f0e37,biomedical imaging,declared_area_title,6,https://profiles.ucalgary.ca/zelma-kiss,source_declared
+mem_dfec7f0e37,biomedical engineering,declared_area_title,7,https://profiles.ucalgary.ca/zelma-kiss,source_declared
+mem_dfec7f0e37,neural prostheses,declared_area_title,8,https://profiles.ucalgary.ca/zelma-kiss,source_declared
+mem_dfec7f0e37,depression,declared_area_title,9,https://profiles.ucalgary.ca/zelma-kiss,source_declared
+mem_dfec7f0e37,pain,declared_area_title,10,https://profiles.ucalgary.ca/zelma-kiss,source_declared
+mem_e11e633737,Mental Health,declared_area_title,0,https://profiles.ucalgary.ca/robert-tanguay,source_declared
+mem_e11e633737,Pain,declared_area_title,1,https://profiles.ucalgary.ca/robert-tanguay,source_declared
+mem_e11e633737,Addiction,declared_area_title,2,https://profiles.ucalgary.ca/robert-tanguay,source_declared
+mem_e11e633737,Opioids,declared_area_title,3,https://profiles.ucalgary.ca/robert-tanguay,source_declared
+mem_e11e633737,Cannabis,declared_area_title,4,https://profiles.ucalgary.ca/robert-tanguay,source_declared
+mem_e11e633737,Chronic opioid therapy,declared_area_title,5,https://profiles.ucalgary.ca/robert-tanguay,source_declared
+mem_e11e633737,Opioid use disorder,declared_area_title,6,https://profiles.ucalgary.ca/robert-tanguay,source_declared
+mem_e11e633737,Psychedelics,declared_area_title,7,https://profiles.ucalgary.ca/robert-tanguay,source_declared
+mem_e203a7a335,Health Services Research,declared_area_list,0,https://profiles.ucalgary.ca/kathryn-birnie,source_declared
+mem_e203a7a335,Knowledge Mobilization,declared_area_list,1,https://profiles.ucalgary.ca/kathryn-birnie,source_declared
+mem_e203a7a335,Mental Health,declared_area_list,2,https://profiles.ucalgary.ca/kathryn-birnie,source_declared
+mem_e203a7a335,Pain,declared_area_list,3,https://profiles.ucalgary.ca/kathryn-birnie,source_declared
+mem_e203a7a335,Psychosocial outcomes,declared_area_list,4,https://profiles.ucalgary.ca/kathryn-birnie,source_declared
+mem_e203a7a335,Community partnered research,declared_area_list,5,https://profiles.ucalgary.ca/kathryn-birnie,source_declared
+mem_e203a7a335,Health equity,declared_area_list,6,https://profiles.ucalgary.ca/kathryn-birnie,source_declared
+mem_e29ecf6f48,Addiction-Recovery,declared_area_title,0,https://profiles.ucalgary.ca/victoria-burns,source_declared
+mem_e29ecf6f48,Mental Health and Wellness,declared_area_title,1,https://profiles.ucalgary.ca/victoria-burns,source_declared
+mem_e29ecf6f48,Housing and Homelessness,declared_area_title,2,https://profiles.ucalgary.ca/victoria-burns,source_declared
+mem_e29ecf6f48,Aging in place,declared_area_title,3,https://profiles.ucalgary.ca/victoria-burns,source_declared
+mem_e29ecf6f48,Qualitative Research,declared_area_title,4,https://profiles.ucalgary.ca/victoria-burns,source_declared
+mem_e29ecf6f48,Community-Based Participatory Research,declared_area_title,5,https://profiles.ucalgary.ca/victoria-burns,source_declared
+mem_e48b8f0a4b,Behaviour,declared_area_title,0,https://profiles.ucalgary.ca/paul-arnold,source_declared
+mem_e48b8f0a4b,Brain,declared_area_title,1,https://profiles.ucalgary.ca/paul-arnold,source_declared
+mem_e48b8f0a4b,Mental Health,declared_area_title,2,https://profiles.ucalgary.ca/paul-arnold,source_declared
+mem_e48b8f0a4b,Mental Illness,declared_area_title,3,https://profiles.ucalgary.ca/paul-arnold,source_declared
+mem_e48b8f0a4b,Genomics,declared_area_title,4,https://profiles.ucalgary.ca/paul-arnold,source_declared
+mem_e4ccd8bf83,Inflammation,declared_area_title,0,https://profiles.ucalgary.ca/quentin-jerome-pittman,source_declared
+mem_e4ccd8bf83,Synaptic and Neuronal Function,declared_area_title,1,https://profiles.ucalgary.ca/quentin-jerome-pittman,source_declared
+mem_e4ccd8bf83,Summary,declared_area_title,2,https://profiles.ucalgary.ca/quentin-jerome-pittman,source_declared
+mem_e5d438a73d,Molecular mechanisms,declared_area_title,0,https://profiles.ucalgary.ca/robert-john-french,source_declared
+mem_e5fb693498,Brain Tumour patient treatment response (clinical trials),declared_area_detail,0,https://profiles.ucalgary.ca/mark-giles-hamilton,source_declared
+mem_e5fb693498,Deep vein thrombosis prophylaxis in brain tumor patients,declared_area_detail,1,https://profiles.ucalgary.ca/mark-giles-hamilton,source_declared
+mem_e5fb693498,"Adult hydrocephalus diagnosis, treatment and outcomes",declared_area_detail,2,https://profiles.ucalgary.ca/mark-giles-hamilton,source_declared
+mem_e7c4e90dd1,Dementia and Cognitive Disorders,declared_area_title,0,https://profiles.ucalgary.ca/dallas-seitz,source_declared
+mem_e7c4e90dd1,Mental Health,declared_area_title,1,https://profiles.ucalgary.ca/dallas-seitz,source_declared
+mem_e7c4e90dd1,dementia,declared_area_title,2,https://profiles.ucalgary.ca/dallas-seitz,source_declared
+mem_e7c4e90dd1,Geriatric Mental Health,declared_area_title,3,https://profiles.ucalgary.ca/dallas-seitz,source_declared
+mem_e92a3a57cf,"Neurosciences, Neurodegeneration, Amyotrophic Lateral Sclerosis, Alzheimer's Disease, Sexual Dimorphism",declared_area_title,0,https://profiles.ucalgary.ca/minh-dang-nguyen,source_declared
+mem_e99045f0a4,Theoretical condensed matter physics,declared_area_title,0,https://profiles.ucalgary.ca/claudia-gomes-da-rocha,source_declared
+mem_e99045f0a4,Neuromorphic systems and brain-inspired technologies,declared_area_title,1,https://profiles.ucalgary.ca/claudia-gomes-da-rocha,source_declared
+mem_e99045f0a4,Materials science and nanoscience,declared_area_title,2,https://profiles.ucalgary.ca/claudia-gomes-da-rocha,source_declared
+mem_e99045f0a4,Quantum materials and sensing,declared_area_title,3,https://profiles.ucalgary.ca/claudia-gomes-da-rocha,source_declared
+mem_e99045f0a4,Complex systems,declared_area_title,4,https://profiles.ucalgary.ca/claudia-gomes-da-rocha,source_declared
+mem_eb52ac9c29,"Magnetic Resonance Imaging, Brain, Neurodevelopment, Neurodevelopmental Disorders, Cancer",declared_area_title,0,https://profiles.ucalgary.ca/chathura-kumaragamage,source_declared
+mem_eba13da887,Brain,declared_area_title,0,https://profiles.ucalgary.ca/serena-orr,source_declared
+mem_eba13da887,Determinants of Health,declared_area_title,1,https://profiles.ucalgary.ca/serena-orr,source_declared
+mem_eba13da887,Epidemiology,declared_area_title,2,https://profiles.ucalgary.ca/serena-orr,source_declared
+mem_eba13da887,Health Outcomes,declared_area_title,3,https://profiles.ucalgary.ca/serena-orr,source_declared
+mem_eba13da887,Pain,declared_area_title,4,https://profiles.ucalgary.ca/serena-orr,source_declared
+mem_ecc4765dd3,Mental Health,declared_area_title,0,https://profiles.ucalgary.ca/mohammed-kalathil,source_declared
+mem_ee14a139dc,Mental Health,declared_area_title,0,https://profiles.ucalgary.ca/rajamannar-ramasubbu,source_declared
+mem_ee14a139dc,Stress,declared_area_title,1,https://profiles.ucalgary.ca/rajamannar-ramasubbu,source_declared
+mem_ee14a139dc,Activities and Mood Disorders,declared_area_title,2,https://profiles.ucalgary.ca/rajamannar-ramasubbu,source_declared
+mem_ee6b1c7368,Neurotoxicology,declared_area_title,0,https://profiles.ucalgary.ca/deborah-maryanne-dewey,source_declared
+mem_ee6b1c7368,Neurodevelopment,declared_area_title,1,https://profiles.ucalgary.ca/deborah-maryanne-dewey,source_declared
+mem_ee6b1c7368,Neurodevelopmental Disorders,declared_area_title,2,https://profiles.ucalgary.ca/deborah-maryanne-dewey,source_declared
+mem_ee6b1c7368,Global Health,declared_area_title,3,https://profiles.ucalgary.ca/deborah-maryanne-dewey,source_declared
+mem_ee6b1c7368,Mental Health,declared_area_title,4,https://profiles.ucalgary.ca/deborah-maryanne-dewey,source_declared
+mem_f082dc6264,Health inequities research,declared_area_title,0,https://profiles.ucalgary.ca/rita-henderson,source_declared
+mem_f082dc6264,Mental Health,declared_area_title,1,https://profiles.ucalgary.ca/rita-henderson,source_declared
+mem_f082dc6264,Stress,declared_area_title,2,https://profiles.ucalgary.ca/rita-henderson,source_declared
+mem_f082dc6264,Indigenous health,declared_area_title,3,https://profiles.ucalgary.ca/rita-henderson,source_declared
+mem_f082dc6264,population health,declared_area_title,4,https://profiles.ucalgary.ca/rita-henderson,source_declared
+mem_f082dc6264,clinical intervention research,declared_area_title,5,https://profiles.ucalgary.ca/rita-henderson,source_declared
+mem_f204657bcb,Pediatric Brain-Computer Interfaces (BCIs),declared_area_title,0,https://profiles.ucalgary.ca/eli-kinney-lang,source_declared
+mem_f36bd582f4,Representation Learning,declared_area_detail,0,https://profiles.ucalgary.ca/qingrun-zhang,source_declared
+mem_f36bd582f4,Discover associations and causal factors in multi-scale omics data,declared_area_detail,1,https://profiles.ucalgary.ca/qingrun-zhang,source_declared
+mem_f4ed9da557,Neuroscience - Motor Control,declared_area_title,0,https://profiles.ucalgary.ca/tyler-cluff,source_declared
+mem_f4ed9da557,Computational Biology,declared_area_title,1,https://profiles.ucalgary.ca/tyler-cluff,source_declared
+mem_f68a60fd9c,"Our research focus is on the neurobiology of pain, with a particular interest in understanding the plasticity of specialized sensory neurons (nociceptors) in chronic diseases (i.e arthritis, inflammatory bowel disease (IBD) or cancer)",declared_area_title,0,https://profiles.ucalgary.ca/christophe-altier,source_declared
+mem_f731c39857,Interrogating the spatiotemporal heterogeneity in brain tumours,declared_area_detail,0,https://profiles.ucalgary.ca/ana-nikolic,source_declared
+mem_f736a5948e,Prion diseases,declared_area_title,0,https://profiles.ucalgary.ca/hermann-schaetzl,source_declared
+mem_f7f8d26dcb,Dementia & Cognitive Disorders,declared_area_title,0,https://profiles.ucalgary.ca/jonathan-epp,source_declared
+mem_f7f8d26dcb,Neurodevelopment,declared_area_title,1,https://profiles.ucalgary.ca/jonathan-epp,source_declared
+mem_f7f8d26dcb,Memory,declared_area_title,2,https://profiles.ucalgary.ca/jonathan-epp,source_declared
+mem_f80aadfb52,Genetic causes of Parkinson's disease,declared_area_title,0,https://profiles.ucalgary.ca/david-park,source_declared
+mem_f80aadfb52,Genetic links to familial Parkinson's disease,declared_area_title,1,https://profiles.ucalgary.ca/david-park,source_declared
+mem_f80aadfb52,Cellular mechanisms to improve recovery after stroke,declared_area_title,2,https://profiles.ucalgary.ca/david-park,source_declared
+mem_f80aadfb52,Stroke-related neurodegeneration,declared_area_title,3,https://profiles.ucalgary.ca/david-park,source_declared
+mem_f80aadfb52,Movement Disorders,declared_area_title,4,https://profiles.ucalgary.ca/david-park,source_declared
+mem_f80aadfb52,Stroke,declared_area_title,5,https://profiles.ucalgary.ca/david-park,source_declared
+mem_f8e008892b,Behaviour,declared_area_title,0,https://profiles.ucalgary.ca/matthew-hill,source_declared
+mem_f8e008892b,Brain Development,declared_area_title,1,https://profiles.ucalgary.ca/matthew-hill,source_declared
+mem_f8e008892b,Endocrinology,declared_area_title,2,https://profiles.ucalgary.ca/matthew-hill,source_declared
+mem_f8e008892b,Mental Health,declared_area_title,3,https://profiles.ucalgary.ca/matthew-hill,source_declared
+mem_f8e008892b,Neuroplasticity,declared_area_title,4,https://profiles.ucalgary.ca/matthew-hill,source_declared
+mem_fb9b9dd954,Addiction,declared_area_title,0,https://profiles.ucalgary.ca/stephanie-borgland,source_declared
+mem_fb9b9dd954,Behaviour,declared_area_title,1,https://profiles.ucalgary.ca/stephanie-borgland,source_declared
+mem_fb9b9dd954,Diet,declared_area_title,2,https://profiles.ucalgary.ca/stephanie-borgland,source_declared
+mem_fb9b9dd954,Mental Health,declared_area_title,3,https://profiles.ucalgary.ca/stephanie-borgland,source_declared
+mem_fb9b9dd954,Neuroplasticity,declared_area_title,4,https://profiles.ucalgary.ca/stephanie-borgland,source_declared
+mem_fb9b9dd954,Obesity,declared_area_title,5,https://profiles.ucalgary.ca/stephanie-borgland,source_declared
+mem_fc7a9521ff,Machine learning,declared_area_list,0,https://profiles.ucalgary.ca/haixu-wang,source_declared
+mem_fc7a9521ff,Funcitonal data analysis,declared_area_list,1,https://profiles.ucalgary.ca/haixu-wang,source_declared
+mem_fc7a9521ff,Bayesian analysis,declared_area_list,2,https://profiles.ucalgary.ca/haixu-wang,source_declared
+mem_fc7a9521ff,Generative models,declared_area_list,3,https://profiles.ucalgary.ca/haixu-wang,source_declared
+mem_fc7a9521ff,Longitudinal/Spatial/Spatial-temporal data,declared_area_list,4,https://profiles.ucalgary.ca/haixu-wang,source_declared
+mem_fc7a9521ff,Computational neuroscience,declared_area_list,5,https://profiles.ucalgary.ca/haixu-wang,source_declared
+mem_fc7a9521ff,Monte Carlo methods,declared_area_list,6,https://profiles.ucalgary.ca/haixu-wang,source_declared
+mem_fc7a9521ff,Network analysis,declared_area_list,7,https://profiles.ucalgary.ca/haixu-wang,source_declared
+mem_fc7a9521ff,High-dimensional and complex data analysis,declared_area_list,8,https://profiles.ucalgary.ca/haixu-wang,source_declared
+mem_fc88669608,Functional MRI,declared_area_detail,0,https://profiles.ucalgary.ca/ali-golestani,source_declared
+mem_fc88669608,Neuroimaging,declared_area_detail,1,https://profiles.ucalgary.ca/ali-golestani,source_declared
+mem_fc88669608,MRI Quality Assurance,declared_area_detail,2,https://profiles.ucalgary.ca/ali-golestani,source_declared
+mem_fc88669608,MRI in Radiation Therapy,declared_area_detail,3,https://profiles.ucalgary.ca/ali-golestani,source_declared
+mem_fc88669608,Medical Imaging,declared_area_detail,4,https://profiles.ucalgary.ca/ali-golestani,source_declared
+mem_fc88669608,Image Processing,declared_area_detail,5,https://profiles.ucalgary.ca/ali-golestani,source_declared
+mem_fc8bf2f9b6,Movement control and rehabilitation,declared_area_title,0,https://profiles.ucalgary.ca/manuel-hulliger,source_declared
+mem_fe45b26c09,Nursing workforce,declared_area_list,0,https://profiles.ucalgary.ca/jennifer-jackson,source_declared
+mem_fe45b26c09,Health systems,declared_area_list,1,https://profiles.ucalgary.ca/jennifer-jackson,source_declared
+mem_fe45b26c09,Social Vulnerability,declared_area_list,2,https://profiles.ucalgary.ca/jennifer-jackson,source_declared
+mem_fe45b26c09,Harm Reduction,declared_area_list,3,https://profiles.ucalgary.ca/jennifer-jackson,source_declared
+mem_fe67f51d1b,Movement Disorders,declared_area_title,0,https://profiles.ucalgary.ca/justyna-sarna,source_declared
+mem_fe67f51d1b,Parkinson's Disease,declared_area_title,1,https://profiles.ucalgary.ca/justyna-sarna,source_declared
+mem_fe67f51d1b,Neurodegeneration,declared_area_title,2,https://profiles.ucalgary.ca/justyna-sarna,source_declared
+mem_feaca2a8a0,Molecular mechanisms in Parkinson's Disease,declared_area_title,0,https://profiles.ucalgary.ca/alvin-joselin,source_declared
+mem_ffc70c151e,Dementia and Cognitive Disorders,declared_area_title,0,https://profiles.ucalgary.ca/lorraine-venturato,source_declared
+mem_ffc70c151e,Gerontology,declared_area_title,1,https://profiles.ucalgary.ca/lorraine-venturato,source_declared
+mem_ffc70c151e,Qualitative research approaches,declared_area_title,2,https://profiles.ucalgary.ca/lorraine-venturato,source_declared
+mem_ffc70c151e,Culture change and practice development,declared_area_title,3,https://profiles.ucalgary.ca/lorraine-venturato,source_declared

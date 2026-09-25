@@ -1,0 +1,546 @@
+{
+  "members": [
+    {
+      "member_id": "mem_84f207cee7",
+      "status": "pilot",
+      "generated_with": "Consensus",
+      "generated_at": "2026-08-17",
+      "reviewed_at": "2026-08-17",
+      "summary": "Richard Frayne’s research advances quantitative magnetic resonance imaging methods and translates them into tools for vascular and neurological imaging. Early contributions include phase-contrast flow measurement and the co-development of 3D TRICKS for time-resolved contrast-enhanced MR angiography. Later collaborative work expanded into cerebrovascular and stroke imaging, automated perfusion and permeability imaging for high-grade glioma, quantitative imaging in epilepsy and persistent post-concussion symptoms, and longitudinal normative MRI resources. Across recent publications, Frayne’s role is frequently senior or collaborative, supporting multidisciplinary teams that connect MRI physics, image analysis and clinically interpretable biomarkers.",
+      "contributions": [
+        {
+          "title": "Quantitative flow and angiography",
+          "highlight": "Foundational quantitative MRI and time-resolved angiography methods.",
+          "text": "Contributed foundational methods for phase-contrast velocity measurement and co-authored 3D TRICKS, which enabled time-resolved 3D contrast-enhanced MR angiography.",
+          "sources": [
+            {
+              "label": "Frayne & Rutt, 1995",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/7885416/"
+            },
+            {
+              "label": "Frayne et al., 1995",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/7560311/"
+            },
+            {
+              "label": "Korosec et al., 1996",
+              "url": "https://doi.org/10.1002/mrm.1910360304"
+            }
+          ]
+        },
+        {
+          "title": "Cerebrovascular and stroke imaging",
+          "highlight": "Quantitative assessment of blood flow, diffusion and perfusion.",
+          "text": "Advanced acquisition and analysis methods for cerebral blood flow, diffusion and perfusion imaging, strengthening quantitative assessment in acute stroke and cerebrovascular disease.",
+          "sources": [
+            {
+              "label": "Pereira et al., 2002",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/11979563/"
+            },
+            {
+              "label": "Kosior et al., 2007",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/17899593/"
+            },
+            {
+              "label": "MacDonald & Frayne, 2015",
+              "url": "https://doi.org/10.1002/nbm.3322"
+            }
+          ]
+        },
+        {
+          "title": "Translational brain imaging",
+          "highlight": "Applications spanning glioma, epilepsy and concussion.",
+          "text": "Extended quantitative MRI into glioma permeability imaging, temporal-lobe epilepsy relaxometry and exploratory concussion susceptibility mapping through multidisciplinary collaborations.",
+          "sources": [
+            {
+              "label": "Kosior et al., 2011",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21616678/"
+            },
+            {
+              "label": "Loos et al., 2021",
+              "url": "https://doi.org/10.1002/mrm.29054"
+            },
+            {
+              "label": "Bell et al., 2025",
+              "url": "https://doi.org/10.3174/ajnr.A8454"
+            }
+          ]
+        },
+        {
+          "title": "Normative data and generalization",
+          "highlight": "Longitudinal reference data and multi-site MRI methods.",
+          "text": "Helped build longitudinal quantitative-MRI reference data and more generalizable multi-site image-analysis and reconstruction approaches for aging and neurological research.",
+          "sources": [
+            {
+              "label": "McCreary et al., 2020",
+              "url": "https://doi.org/10.1136/bmjopen-2020-038120"
+            },
+            {
+              "label": "Bento et al., 2022",
+              "url": "https://doi.org/10.3389/fninf.2021.805669"
+            },
+            {
+              "label": "Dubljevic et al., 2024",
+              "url": "https://doi.org/10.1002/mrm.30130"
+            }
+          ]
+        }
+      ],
+      "research_through_line": {
+        "headline": "From MRI methods to clinically useful measurement",
+        "text": "Richard Frayne’s work has consistently translated technical advances in MRI into quantitative tools for studying blood flow, brain disease, aging and neurodegeneration."
+      },
+      "current_direction": {
+        "headline": "Reliable AI across real-world variation",
+        "summary": "Recent work points toward AI-supported reconstruction and analysis that can recognize uncertainty and remain dependable across different scanners, datasets and pathological findings.",
+        "emphasis": [
+          "AI-enabled MRI",
+          "model generalizability under domain shift"
+        ],
+        "details": [
+          {
+            "text": "In brain MR reconstruction, all-coil designs improved in-distribution performance, while coil-combined designs generalized better to unseen pathological scans. Models trained only on healthy data performed worse on pathology and tended to in-paint lesions with healthy-looking anatomy, while uncertainty estimates rose in pathological regions.",
+            "sources": [
+              {
+                "label": "Dubljevic 2025",
+                "url": "https://consensus.app/papers/generalize-or-specialize-the-effect-of-coil-combining-in-dubljevic-frayne/152c6d4dd3e75dbb9a71f01669c77e15/"
+              },
+              {
+                "label": "Moore 2026",
+                "url": "https://consensus.app/papers/assessing-generalizability-and-uncertainty-in-deep-moore-frayne/4cd9e137e4005e46abf66d60f376e02d/"
+              }
+            ]
+          },
+          {
+            "text": "That AI work connects back to Frayne’s longer-running interest in quantitative biomarkers across aging and disease. The Calgary Normative Study was designed to characterize age effects, precision and repeatability of quantitative MR biomarkers over the adult lifespan while serving as a shared comparison resource for disease cohorts. Newer resting-state and white matter papers extend that platform into graph-based brain aging analyses and automated WMH severity scoring with uncertainty-aware models.",
+            "emphasis": [
+              "quantitative biomarkers across aging and disease"
+            ],
+            "sources": [
+              {
+                "label": "McCreary 2020",
+                "url": "https://consensus.app/papers/calgary-normative-study-study-design-of-a-prospective-mccreary-salluzzi/a32cc33f19b05e359c5677ece3025336/"
+              },
+              {
+                "label": "Carvalho 2025",
+                "url": "https://consensus.app/papers/pilot-study-of-distinct-graphs-models-in-analysis-of-brain-carvalho-frayne/cc9705d01a9354f9bee5c1af8b99c865/"
+              },
+              {
+                "label": "Schmid 2025",
+                "url": "https://consensus.app/papers/quantifying-white-matter-hyperintensities-predicting-schmid-shamaei/0ebf2722f4525c988824d1edeb29493d/"
+              }
+            ]
+          }
+        ],
+        "conclusion": "Overall, Richard Frayne’s research footprint at the University of Calgary is best summarized as MRI method development translated into vascular brain disease, aging and neurodegeneration research, with a recent expansion into robust, uncertainty-aware AI for MR analysis and reconstruction.",
+        "conclusion_emphasis": [
+          "MRI method development translated into vascular brain disease, aging and neurodegeneration research",
+          "robust, uncertainty-aware AI for MR analysis and reconstruction"
+        ],
+        "basis": "Synthesized from the cited recent publications; not presented as a researcher-declared plan."
+      },
+      "key_contributors_definition": "Lead-author teams behind the cited current-direction findings; this is not a complete collaborator list or ranking.",
+      "key_contributors": [
+        {
+          "name": "Dubljevic et al.",
+          "role": "Coil design and model generalization",
+          "url": "https://consensus.app/papers/generalize-or-specialize-the-effect-of-coil-combining-in-dubljevic-frayne/152c6d4dd3e75dbb9a71f01669c77e15/"
+        },
+        {
+          "name": "Moore et al.",
+          "role": "Pathology shift and uncertainty",
+          "url": "https://consensus.app/papers/assessing-generalizability-and-uncertainty-in-deep-moore-frayne/4cd9e137e4005e46abf66d60f376e02d/"
+        },
+        {
+          "name": "McCreary et al.",
+          "role": "Longitudinal normative MRI resource",
+          "url": "https://consensus.app/papers/calgary-normative-study-study-design-of-a-prospective-mccreary-salluzzi/a32cc33f19b05e359c5677ece3025336/"
+        },
+        {
+          "name": "Carvalho et al.",
+          "role": "Graph-based brain aging analysis",
+          "url": "https://consensus.app/papers/pilot-study-of-distinct-graphs-models-in-analysis-of-brain-carvalho-frayne/cc9705d01a9354f9bee5c1af8b99c865/"
+        },
+        {
+          "name": "Schmid et al.",
+          "role": "Uncertainty-aware WMH severity scoring",
+          "url": "https://consensus.app/papers/quantifying-white-matter-hyperintensities-predicting-schmid-shamaei/0ebf2722f4525c988824d1edeb29493d/"
+        }
+      ],
+      "limitations": "The strongest publication evidence supports quantitative MRI, vascular imaging and translational neuroimaging. The reviewed set supports epilepsy and concussion applications; ALS-specific contributions require a more targeted publication review. Collaborative papers are presented as program contributions and do not imply sole authorship.",
+      "source_note": "Evidence discovery supported by Consensus. Display wording and publication metadata reviewed for this directory pilot."
+    },
+    {
+      "member_id": "mem_a055827ead",
+      "status": "pilot",
+      "generated_with": "Consensus MCP",
+      "generated_at": "2026-08-17",
+      "reviewed_at": "2026-08-17",
+      "summary": "Michael Hill’s research combines clinical epidemiology, acute stroke trials, neuroimaging and health-system implementation to improve reperfusion treatment and outcomes after ischemic stroke.",
+      "contributions": [
+        {
+          "title": "Reperfusion trials and thrombectomy",
+          "text": "Contributed to multicentre trials evaluating endovascular thrombectomy, including its longer-term benefits for patients with large established infarcts.",
+          "sources": [
+            {
+              "label": "Thomalla et al., 2024",
+              "url": "https://consensus.app/papers/details/afcebd685d5a5db49a084115cf230e09/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Imaging-guided prognosis",
+          "text": "Helped connect baseline imaging features—including brain frailty and stroke-related CT markers—with functional outcome and expected benefit from thrombectomy.",
+          "sources": [
+            {
+              "label": "Benali et al., 2024",
+              "url": "https://consensus.app/papers/details/1375bb9ab099591dacec39af55239506/?utm_source=unknown"
+            },
+            {
+              "label": "Luijten et al., 2026",
+              "url": "https://consensus.app/papers/details/22fb9d27bca157b3b6d87fb48734946f/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Stroke systems and equitable access",
+          "text": "Extended stroke research into treatment delivery, examining workflow improvement and geographic or socioeconomic barriers to timely reperfusion care.",
+          "sources": [
+            {
+              "label": "Kamal et al., 2025",
+              "url": "https://consensus.app/papers/details/0ab5c9e7a6ee547d9c973d2fdbc8e1b6/?utm_source=unknown"
+            },
+            {
+              "label": "Eagles et al., 2023",
+              "url": "https://consensus.app/papers/details/b89f756032835af38b1d48e0de755939/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Acute-trial consent methods",
+          "text": "Examined consent approaches suited to time-critical stroke trials, including the acceptability of advance consent among Canadian research ethics leaders.",
+          "sources": [
+            {
+              "label": "Seeger et al., 2023",
+              "url": "https://consensus.app/papers/details/9ec72556122d5540b5ccee93f2f73b60/?utm_source=unknown"
+            }
+          ]
+        }
+      ],
+      "research_through_line": {
+        "headline": "From acute stroke evidence to effective care",
+        "text": "Michael Hill’s work combines clinical trials, epidemiology and imaging to determine who benefits from reperfusion treatment and how that treatment can be delivered more effectively."
+      },
+      "current_direction": {
+        "headline": "Broader treatment with more individualized selection",
+        "summary": "Recent work points toward expanding thrombectomy to more complex stroke populations while refining imaging-based prognosis, long-term outcome assessment and equitable access to treatment.",
+        "basis": "Synthesized from the cited recent publications; not presented as a researcher-declared plan."
+      },
+      "limitations": "Consensus discovery strongly supported acute ischemic stroke, thrombectomy, imaging and care delivery. Only papers attributable to this Michael Hill through author metadata and Calgary stroke context were retained. Collaborative papers are presented as program contributions and do not imply sole authorship.",
+      "source_note": "Evidence discovered through authenticated Consensus searches. Researcher identity and representative publication metadata were checked against Crossref or PubMed records and the public research profile."
+    },
+    {
+      "member_id": "mem_405555556d",
+      "status": "pilot",
+      "generated_with": "Consensus MCP",
+      "generated_at": "2026-08-17",
+      "reviewed_at": "2026-08-17",
+      "summary": "Carolyn Emery’s research uses sport-injury epidemiology, longitudinal cohorts and prevention research to reduce concussion and musculoskeletal injury among youth athletes and translate evidence into practice and policy.",
+      "contributions": [
+        {
+          "title": "Pediatric concussion evidence",
+          "text": "Contributed to pediatric sport-concussion guidance and large prospective studies connecting clinical concussion assessment with emerging blood-based biomarkers.",
+          "sources": [
+            {
+              "label": "Davis et al., 2023",
+              "url": "https://consensus.app/papers/details/051f89fdaa875977b46eccdb16c29de7/?utm_source=unknown"
+            },
+            {
+              "label": "Tabor et al., 2024",
+              "url": "https://consensus.app/papers/details/659eac3532c754d09562e1e05a1354d7/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Sex-responsive injury prevention",
+          "text": "Quantified sex-related differences in youth-sport injury and concussion and helped evaluate prevention strategies for female, woman and girl athletes.",
+          "sources": [
+            {
+              "label": "Shill et al., 2023",
+              "url": "https://consensus.app/papers/details/af4ca137f54650a28305e1a24f77c03a/?utm_source=unknown"
+            },
+            {
+              "label": "Shill et al., 2025",
+              "url": "https://consensus.app/papers/details/15a3e228bc50508499849b41cd743ce8/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Policy and implementation",
+          "text": "Advanced prevention beyond efficacy studies by examining how sport rules, implementation processes and front-line reporting shape real-world injury reduction.",
+          "sources": [
+            {
+              "label": "West et al., 2025",
+              "url": "https://consensus.app/papers/details/42473deff5815bd1a90aca80c99e3d9b/?utm_source=unknown"
+            },
+            {
+              "label": "Patterson et al., 2025",
+              "url": "https://consensus.app/papers/details/0454e89b43735d9aa92a6dcd83280a18/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Long-term consequences of youth injury",
+          "text": "Extended injury surveillance into longer-term outcomes, including the lived effects of adolescent concussion and persistent symptoms following serious youth-sport ankle injury.",
+          "sources": [
+            {
+              "label": "Shepherd et al., 2024",
+              "url": "https://consensus.app/papers/details/cd1d242f2f2f5cbfbd4659ceceef3eb6/?utm_source=unknown"
+            },
+            {
+              "label": "Owoeye et al., 2023",
+              "url": "https://consensus.app/papers/details/e9e826d869a35046a362564b45f20e78/?utm_source=unknown"
+            }
+          ]
+        }
+      ],
+      "research_through_line": {
+        "headline": "From injury surveillance to prevention in practice",
+        "text": "Carolyn Emery’s work translates population-level injury evidence into prevention strategies, clinical guidance and sport-policy changes intended to keep young athletes active and safe."
+      },
+      "current_direction": {
+        "headline": "More inclusive and implementation-ready prevention",
+        "summary": "Recent work points toward sex- and gender-responsive prevention, objective concussion biomarkers, implementation science and longer-term evaluation of outcomes after youth-sport injury.",
+        "basis": "Synthesized from the cited recent publications; not presented as a researcher-declared plan."
+      },
+      "limitations": "The reviewed evidence strongly supports youth sport, concussion, injury prevention and implementation. Findings are presented as contributions of collaborative research efforts and do not imply sole authorship.",
+      "source_note": "Evidence discovered through authenticated Consensus searches. Researcher identity and representative publication metadata were checked against Crossref or PubMed records and the public research profile."
+    },
+    {
+      "member_id": "mem_3cc315d4d3",
+      "status": "pilot",
+      "generated_with": "Consensus MCP",
+      "generated_at": "2026-08-17",
+      "reviewed_at": "2026-08-17",
+      "summary": "Gerald Zamponi’s research links ion-channel biophysics and regulation to pain mechanisms, neurological disease and the development of non-opioid therapeutic strategies.",
+      "contributions": [
+        {
+          "title": "Calcium channels as therapeutic targets",
+          "text": "Established voltage-gated calcium channels as mechanistic and pharmacological targets across pain and other neurological or psychiatric disorders.",
+          "sources": [
+            {
+              "label": "Zamponi, 2015",
+              "url": "https://consensus.app/papers/details/da95cab065a25b43a2ec6cff039cfc04/?utm_source=unknown"
+            },
+            {
+              "label": "Gandini et al., 2025",
+              "url": "https://consensus.app/papers/details/c42a72457f215bd09889f58ad30197c6/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Channel regulation and pain sensitivity",
+          "text": "Connected molecular regulation of calcium channels with pain behaviour, including human and experimental evidence linking USP5–CaV3.2 signaling to pain sensitivity.",
+          "sources": [
+            {
+              "label": "Antunes et al., 2025",
+              "url": "https://consensus.app/papers/details/306ce7f69590555688d5ab98f8208fc8/?utm_source=unknown"
+            },
+            {
+              "label": "Souza et al., 2024",
+              "url": "https://consensus.app/papers/details/4ed8a02f6aff55bf835c9ed2ba852b21/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Disease-associated channel variants",
+          "text": "Used electrophysiology and structural modeling to clarify how pathogenic calcium-channel variants alter function in severe neurodevelopmental disease.",
+          "sources": [
+            {
+              "label": "Souza et al., 2026",
+              "url": "https://consensus.app/papers/details/3e588e56a7465de2a6155fc893fcddb0/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Circuit mechanisms of chronic pain",
+          "text": "Extended molecular pain research into brain-circuit function by examining how injury changes descending pain-modulatory pathways.",
+          "sources": [
+            {
+              "label": "Yu et al., 2024",
+              "url": "https://consensus.app/papers/details/5d463e1eafb154ddbb71bdbb80d5fd61/?utm_source=unknown"
+            }
+          ]
+        }
+      ],
+      "research_through_line": {
+        "headline": "From ion-channel mechanisms to pain therapeutics",
+        "text": "Gerald Zamponi’s work connects molecular and cellular studies of ion channels to circuit-level explanations of pain and opportunities for therapeutic intervention."
+      },
+      "current_direction": {
+        "headline": "Precision mechanisms for non-opioid pain control",
+        "summary": "Recent work points toward integrating channel genetics, regulatory proteins, circuit physiology and next-generation channel modulators to identify more selective approaches to pain treatment.",
+        "basis": "Synthesized from the cited recent publications; not presented as a researcher-declared plan."
+      },
+      "limitations": "Consensus discovery strongly supported calcium-channel biology and pain. The displayed set prioritizes papers with verified attribution and does not attempt to represent the full breadth of neurological channelopathies or patents associated with the program.",
+      "source_note": "Evidence discovered through authenticated Consensus searches. Researcher identity and representative publication metadata were checked against Crossref or PubMed records and the public research profile."
+    },
+    {
+      "member_id": "mem_c695f19acd",
+      "status": "pilot",
+      "generated_with": "Consensus MCP",
+      "generated_at": "2026-08-17",
+      "reviewed_at": "2026-08-17",
+      "summary": "Nils Daniel Forkert’s research develops medical-image analysis and machine-learning methods that extract biomarkers, predict outcomes and support precision decision-making across neurological and other clinical applications.",
+      "contributions": [
+        {
+          "title": "Cerebrovascular image analysis",
+          "text": "Developed computational methods for combining vascular anatomy and blood-flow imaging and for modeling treatment response in acute ischemic stroke.",
+          "sources": [
+            {
+              "label": "Forkert, 2015",
+              "url": "https://consensus.app/papers/details/c0feacc7e8875ccd952136029685c787/?utm_source=unknown"
+            },
+            {
+              "label": "Winder et al., 2021",
+              "url": "https://consensus.app/papers/details/1305961d18af52278f8cf179373db68f/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Multimodal outcome prediction",
+          "text": "Combined clinical metadata with complex imaging to predict both tissue injury and functional outcomes, particularly in acute stroke and treatment planning.",
+          "sources": [
+            {
+              "label": "Amador et al., 2025",
+              "url": "https://consensus.app/papers/details/fd67a174f12a5c37923c146160225aee/?utm_source=unknown"
+            },
+            {
+              "label": "Rajashekar et al., 2021",
+              "url": "https://consensus.app/papers/details/57dea31738085d0b9c6999b991511a0c/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Trustworthy medical imaging AI",
+          "text": "Investigated privacy vulnerability and demographic or technical bias in deep-learning models, providing frameworks for safer evaluation of medical imaging AI.",
+          "sources": [
+            {
+              "label": "Subbanna et al., 2021",
+              "url": "https://consensus.app/papers/details/2f6e5ef69ddc5066bd4ba42192d11c45/?utm_source=unknown"
+            },
+            {
+              "label": "Stanley et al., 2024",
+              "url": "https://consensus.app/papers/details/74e72101519954c294f55f99621b5c3d/?utm_source=unknown"
+            },
+            {
+              "label": "Stanley et al., 2024",
+              "url": "https://consensus.app/papers/details/5f47654bcf59593484a9fbf4e38ca68e/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Scalable precision phenotyping",
+          "text": "Applied machine learning to high-dimensional phenotypes and advanced distributed or self-supervised learning approaches that reduce dependence on centralized, extensively labeled datasets.",
+          "sources": [
+            {
+              "label": "Hallgrímsson et al., 2020",
+              "url": "https://consensus.app/papers/details/9a45eb0092f25d42b3a7a5ae51b88d74/?utm_source=unknown"
+            },
+            {
+              "label": "Nielsen et al., 2024",
+              "url": "https://consensus.app/papers/details/75922bba6c2e54deafeeca64c844dbaf/?utm_source=unknown"
+            },
+            {
+              "label": "Felfeliyan et al., 2023",
+              "url": "https://consensus.app/papers/details/28fa5d7da38152f08adc306da8c90604/?utm_source=unknown"
+            }
+          ]
+        }
+      ],
+      "research_through_line": {
+        "headline": "From complex images to clinically useful predictions",
+        "text": "Nils Daniel Forkert’s work uses computational imaging methods to turn multimodal medical data into quantitative biomarkers and patient-specific predictions intended to support research and clinical decisions."
+      },
+      "current_direction": {
+        "headline": "More trustworthy and transferable medical AI",
+        "summary": "Recent work points toward multimodal and distributed models that address bias, privacy, limited annotation and generalizability while expanding prediction across diseases, organs and time.",
+        "basis": "Synthesized from the cited recent publications; not presented as a researcher-declared plan."
+      },
+      "limitations": "The reviewed set strongly supports medical image analysis, stroke prediction and trustworthy AI. A Consensus result identified as a preprint was excluded, and the displayed examples are not an exhaustive account of the program’s pediatric or digital-twin research.",
+      "source_note": "Evidence discovered through authenticated Consensus searches. Researcher identity and representative publication metadata were checked against Crossref or PubMed records and the public research profile."
+    },
+    {
+      "member_id": "mem_fb9f77988d",
+      "status": "pilot",
+      "generated_with": "Consensus MCP",
+      "generated_at": "2026-08-17",
+      "reviewed_at": "2026-08-17",
+      "summary": "Paul Kubes’s research uses intravital imaging to reveal how immune cells move, communicate and adapt within living tissues during infection, inflammation, thrombosis and repair.",
+      "contributions": [
+        {
+          "title": "Intravital imaging of immunity",
+          "text": "Advanced intravital microscopy as a way to observe rapid, organ-specific immune-cell and microvascular behaviour that cannot be captured by static tissue measurements alone.",
+          "sources": [
+            {
+              "label": "Neupane et al., 2021",
+              "url": "https://consensus.app/papers/details/6327191cdc01501298c088963e39966b/?utm_source=unknown"
+            },
+            {
+              "label": "Castanheira et al., 2023",
+              "url": "https://consensus.app/papers/details/441ca47e35fa5c97a8983a5378cb0a93/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Leukocyte trafficking mechanisms",
+          "text": "Clarified how adhesion molecules, chemokines and other guidance signals coordinate leukocyte recruitment within distinct vascular and tissue environments.",
+          "sources": [
+            {
+              "label": "McDonald et al., 2015",
+              "url": "https://consensus.app/papers/details/9433bc6f2c715dc783cb3708b34f5644/?utm_source=unknown"
+            },
+            {
+              "label": "David et al., 2019",
+              "url": "https://consensus.app/papers/details/e604f1e7b8585d738a9adecdc5a4e665/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Liver-resident immune adaptation",
+          "text": "Revealed how liver macrophage organization and identity change during fibrosis, including compensatory multicellular structures that restore bacterial clearance.",
+          "sources": [
+            {
+              "label": "Peiseler et al., 2023",
+              "url": "https://consensus.app/papers/details/46bba107894a5a73a622f1110ede5b66/?utm_source=unknown"
+            }
+          ]
+        },
+        {
+          "title": "Immunothrombosis and tissue repair",
+          "text": "Connected neutrophil extracellular traps and recruited monocytes with two sides of host defence: thrombotic injury and the coordinated repair of infected tissue.",
+          "sources": [
+            {
+              "label": "Jenne et al., 2025",
+              "url": "https://consensus.app/papers/details/9cc808bb8445520e907d40a9dbc8cc6f/?utm_source=unknown"
+            },
+            {
+              "label": "Kratofil et al., 2022",
+              "url": "https://consensus.app/papers/details/2be948e5e25952e5bd669032c0c45f62/?utm_source=unknown"
+            }
+          ]
+        }
+      ],
+      "research_through_line": {
+        "headline": "Seeing immune behaviour inside living tissues",
+        "text": "Paul Kubes’s work uses direct visualization of immune-cell dynamics to explain how organ-specific inflammation controls infection, causes collateral injury and transitions toward repair."
+      },
+      "current_direction": {
+        "headline": "Immune adaptation, immunothrombosis and repair",
+        "summary": "Recent work points toward understanding how resident macrophages, neutrophils, platelets and recruited monocytes reorganize across infection or tissue damage—and how those dynamics might be redirected therapeutically.",
+        "basis": "Synthesized from the cited recent publications; not presented as a researcher-declared plan."
+      },
+      "limitations": "Consensus discovery strongly supported intravital imaging, leukocyte trafficking, liver immunity and infection biology. The displayed papers are representative collaborative outputs and do not imply sole authorship or cover the complete body of work.",
+      "source_note": "Evidence discovered through authenticated Consensus searches. Researcher identity and representative publication metadata were checked against Crossref or PubMed records and the public research profile."
+    }
+  ]
+}

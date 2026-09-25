@@ -1,0 +1,15 @@
+member_id,link_group,platform,label,identifier,url,relationship_type,source_url,verification_status,display_order
+mem_c4a9f6ea6f,research_profile,Scopus,Scopus Author Profile,6701562105,https://www.scopus.com/authid/detail.uri?authorId=6701562105,Scholarly identifier,,matched_scopus_id,10
+mem_c4a9f6ea6f,research_ecosystem,Research Lab,NeuroLab,,https://www.neurolab.ca/,Research lab,https://www.neurolab.ca/publications,source_declared_verified,20
+mem_22a4e04503,research_ecosystem,Research Lab,P.A.I.N.S Lab,,https://www.painslab.ca/,Research lab,https://painslab.ca/publications/,source_declared_verified,10
+mem_ff28df9a18,research_profile,Scopus,Scopus Author Profile,8858966500,https://www.scopus.com/authid/detail.uri?authorId=8858966500,Scholarly identifier,,matched_scopus_id,10
+mem_ff28df9a18,research_ecosystem,Research Lab,Ousman Lab,,https://cumming.ucalgary.ca/labs/neuroimmunology,Research lab,https://cumming.ucalgary.ca/labs/neuroimmunology/publications,source_declared_verified,20
+mem_36447b4ebf,research_profile,Scopus,Scopus Author Profile,22940276600,https://www.scopus.com/authid/detail.uri?authorId=22940276600,Scholarly identifier,,matched_scopus_id,10
+mem_36447b4ebf,research_profile,Google Scholar,Google Scholar Profile,,https://scholar.google.ca/citations?user=aTS197oAAAAJ&hl=en,Scholarly profile,https://scholar.google.ca/citations?user=aTS197oAAAAJ&hl=en,source_declared,20
+mem_36447b4ebf,research_profile,ResearchGate,ResearchGate Profile,,https://www.researchgate.net/profile/Joern-Davidsen,Scholarly profile,https://www.researchgate.net/profile/Joern-Davidsen,source_declared,30
+mem_36447b4ebf,research_ecosystem,Research Group,Jörn Davidsen’s Research Group,,https://www.ucalgary.ca/davidsen/publications,Research group,https://www.ucalgary.ca/davidsen/publications,source_declared_verified,40
+mem_a0bb31cffa,research_profile,ORCID,ORCID Profile,0000-0002-8335-5389,https://orcid.org/0000-0002-8335-5389,Scholarly identifier,https://orcid.org/0000-0002-8335-5389,user_provided_verified,5
+mem_a0bb31cffa,research_profile,Scopus,Scopus Author Profile,23104152800,https://www.scopus.com/authid/detail.uri?authorId=23104152800,Scholarly identifier,,matched_scopus_id,10
+mem_a0bb31cffa,research_profile,Google Scholar,Google Scholar Profile,,https://scholar.google.com/citations?user=09eAIv8AAAAJ&hl=en,Scholarly profile,https://scholar.google.com/citations?user=09eAIv8AAAAJ&hl=en,source_declared,20
+mem_a0bb31cffa,research_profile,ResearchGate,ResearchGate Profile,,https://www.researchgate.net/profile/Frank-Stahnisch,Scholarly profile,https://www.researchgate.net/profile/Frank-Stahnisch,source_declared,30
+mem_a0bb31cffa,research_profile,Academia.edu,Academia.edu Profile,,https://ucalgary.academia.edu/FrankStahnisch,Scholarly profile,https://ucalgary.academia.edu/FrankStahnisch,source_declared_verified,40
